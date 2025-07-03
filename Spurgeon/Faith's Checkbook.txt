@@ -17,7 +17,6 @@
 
 C. H. Spurgeon
 
-                                    PREFACE
 
    A promise from God may very instructively be compared to a check
    payable to order. It is given to the believer with the view of
@@ -129,13 +128,11 @@ C. H. Spurgeon
    C.H. Spurgeon
      __________________________________________________________________
 
-                           INDEX OF BIBLE VERSES USED
 
 Arranged In Biblical Order
 
     Showing The Date Of The Devotional With Which Used
 
-   GENESIS
 
    Gen. 3:15 -- Jan. 1
 
@@ -157,7 +154,6 @@ Arranged In Biblical Order
 
    Gen. 50:24 -- Oct. 2
 
-   EXODUS
 
    Exod. 3:12 -- Jan. 17
 
@@ -181,7 +177,6 @@ Arranged In Biblical Order
 
    Exod. 34:11 -- Apr. 19
 
-   LEVITICUS
 
    Lev. 1:4 -- Jan. 23
 
@@ -189,7 +184,6 @@ Arranged In Biblical Order
 
    Lev. 22:11 -- Aug. 3
 
-   NUMBERS
 
    Num. 6:24 -- Aug. 4
 
@@ -201,7 +195,6 @@ Arranged In Biblical Order
 
    Num. 23:23 -- Jan. 26
 
-   DEUTERONOMY
 
    Deut. 1:21 -- Aug. 6
 
@@ -251,7 +244,6 @@ Arranged In Biblical Order
 
    Deut. 33:29 -- Dec. 24
 
-   JOSHUA
 
    Josh. 1:5 -- Apr. 18
 
@@ -261,7 +253,6 @@ Arranged In Biblical Order
 
    Joshua 23:10 -- May 24
 
-   JUDGES
 
    Judges 4:9 -- June 21
 
@@ -273,7 +264,6 @@ Arranged In Biblical Order
 
    (no verses used)
 
-   I SAMUEL
 
    I Sam 2:7 -- Aug. 10
 
@@ -287,7 +277,6 @@ Arranged In Biblical Order
 
    I Sam. 17:47 -- Mar. 11
 
-   II SAMUEL
 
    II Sam. 5:24 -- May 3
 
@@ -297,11 +286,9 @@ Arranged In Biblical Order
 
    II Sam. 23:5 -- Aug. 30
 
-   I KINGS
 
    I Kings 11:39 -- Aug. 14
 
-   II KINGS
 
    II Kings 3:16, 17 -- Nov. 4
 
@@ -311,11 +298,9 @@ Arranged In Biblical Order
 
    II Kings 22:19 -- Apr. 3
 
-   I CHRONICLES
 
    I Chron. 28:9 -- Aug. 18
 
-   II CHRONICLES
 
    II Chron. 7:14 -- Oct. 13
 
@@ -329,11 +314,9 @@ Arranged In Biblical Order
 
    (no verses used)
 
-   NEHEMIAH
 
    (no verses used)
 
-   ESTHER
 
    (no verses used)
 
@@ -345,7 +328,6 @@ Arranged In Biblical Order
 
    Job 33:27, 28 -- Jan. 25
 
-   PSALMS
 
    Ps. 6:9 -- June 6
 
@@ -471,7 +453,6 @@ Arranged In Biblical Order
 
    Ps. 146:8 -- Apr. 22
 
-   PROVERBS
 
    Prov. 3:23 -- Mar. 21
 
@@ -517,17 +498,14 @@ Arranged In Biblical Order
 
    Prov. 28:14 -- Sept. 9
 
-   ECCLESIASTES
 
    Eccl. 11:1 -- June 1
 
    Eccl. 11:3 -- May 21
 
-   SONG OF SOLOMON
 
    (no verses used)
 
-   ISAIAH
 
    Isa. 2:4 -- Dec. 15
 
@@ -605,7 +583,6 @@ Arranged In Biblical Order
 
    Isa. 66:13 -- Mar. 14
 
-   JEREMIAH
 
    Jer. 1:6, 7 -- Mar. 13
 
@@ -635,13 +612,11 @@ Arranged In Biblical Order
 
    Jer. 50:20 -- Nov. 22
 
-   LAMENTATIONS
 
    Lam. 3:27 -- Sept. 11
 
    Lam. 3:31 -- Jan. 12
 
-   EZEKIEL
 
    Ezek. 11:16 -- Mar. 15
 
@@ -663,7 +638,6 @@ Arranged In Biblical Order
 
    Ezek. 47:9 -- Sept. 24
 
-   DANIEL
 
    Dan. 11:32 -- July 17
 
@@ -703,7 +677,6 @@ Arranged In Biblical Order
 
    Amos 9:9 -- Sept. 23
 
-   OBADIAH
 
    (no verses used)
 
@@ -727,13 +700,11 @@ Arranged In Biblical Order
 
    Nah. 1:13 -- June 2
 
-   HABAKKUK
 
    Hab. 2:3 -- Nov. 3
 
    Hab. 3:19 -- June 3
 
-   ZEPHANIAH
 
    Zeph. 3:12 -- June 9
 
@@ -745,11 +716,9 @@ Arranged In Biblical Order
 
    Zeph. 3:19 -- July 16
 
-   HAGGAI
 
    Haggai 2:19 -- Nov. 19
 
-   ZECHARIAH
 
    Zech. 4:7 -- Nov. 25
 
@@ -765,7 +734,6 @@ Arranged In Biblical Order
 
    Zech. 14:20 -- Apr. 16
 
-   MALACHI
 
    Mal. 3:10 -- Apr. 24
 
@@ -775,7 +743,6 @@ Arranged In Biblical Order
 
    Mal. 4:2 -- Feb. 2
 
-   MATTHEW
 
    Matt. 1:21 -- Oct. 20
 
@@ -885,7 +852,6 @@ Arranged In Biblical Order
 
    Acts 23:11 -- Apr. 8
 
-   ROMANS
 
    Rom. 1:17 -- Apr. 20
 
@@ -899,25 +865,20 @@ Arranged In Biblical Order
 
    Rom. 16:20 -- Jan. 2
 
-   I CORINTHIANS
 
    I Cor. 1:19 -- Aug. 24
 
-   II CORINTHIANS
 
    II Cor. 6:16 -- Apr. 28
 
    II Cor. 12:9 -- Nov. 8
 
-   GALATIANS
 
    Gal. 6:8 -- May 2
 
-   EPHESIANS
 
    (no verses used)
 
-   PHILIPPIANS
 
    Phil. 3:21 -- Apr. 13
 
@@ -927,25 +888,20 @@ Arranged In Biblical Order
 
    Phil. 4:19 -- Nov. 15
 
-   COLOSSIANS
 
    (no verses used)
 
-   I THESSALONIANS
 
    I Thess. 4:17 -- Dec. 17
 
    I Thess. 5:24 -- Nov. 1
 
-   II THESSALONIANS
 
    II Thess. 3:3 -- Mar. 24
 
-   I TIMOTHY
 
    I Tim. 4:15 -- Apr. 2
 
-   II TIMOTHY
 
    (no verses used)
 
@@ -953,11 +909,9 @@ Arranged In Biblical Order
 
    (no verses used)
 
-   PHILEMON
 
    (no verses used)
 
-   HEBREWS
 
    Heb. 4:9 -- Sept. 28
 
@@ -983,27 +937,22 @@ Arranged In Biblical Order
 
    James 5:8 -- June 26
 
-   I PETER
 
    I Peter 1:25 -- Aug. 31
 
    I Peter 5:6 -- July 28
 
-   II PETER
 
    II Peter 1:8 -- May 27
 
    II Peter 2:9 -- July 12
 
-   I JOHN
 
    (no verses used)
 
-   II JOHN
 
    (no verses used)
 
-   III JOHN
 
    (no verses used)
 
@@ -1011,7 +960,6 @@ Arranged In Biblical Order
 
    (no verses used)
 
-   REVELATION
 
    Rev. 2:7 -- Jan. 20
 
@@ -1032,7 +980,6 @@ Arranged In Biblical Order
    Rev. 22:3, 4 -- Oct. 27
      __________________________________________________________________
 
-                              THE MONTH OF JANUARY
 
    Jan. 1
 
@@ -1062,7 +1009,6 @@ Arranged In Biblical Order
 
    Jan. 2
 
-  CONQUEST TO VICTORY
 
    "And the God of peace shall bruise Satan under your feet shortly." Rom.
    16:20
@@ -1088,7 +1034,6 @@ Arranged In Biblical Order
 
    Jan. 3
 
-  REST ON A PROMISE
 
    "The land whereon thou liest, to thee will I give it." Gen. 28:13
 
@@ -1113,7 +1058,6 @@ Arranged In Biblical Order
 
    Jan. 4
 
-  IN CALM REPOSE
 
    "I will make them to lie down safely." Hos. 2:18
 
@@ -1141,7 +1085,6 @@ Arranged In Biblical Order
 
    Jan. 5
 
-  A WONDERFUL GUARANTEE
 
    "I will strengthen thee." Isa. 41:10
 
@@ -1167,7 +1110,6 @@ Arranged In Biblical Order
 
    Jan. 6
 
-  HELP FROM WITHOUT
 
    "Yea, I will help thee." Isa. 41:10
 
@@ -1194,7 +1136,6 @@ Arranged In Biblical Order
 
    Jan. 7
 
-  ALWAYS GROWING
 
    "Thou shalt see greater things than these." John 1:50
 
@@ -1221,7 +1162,6 @@ Arranged In Biblical Order
 
    Jan. 8
 
-  PURITY OF HEART AND LIFE
 
    "Blessed are the pure in heart: for they shall see God." Matt. 5:8
 
@@ -1248,7 +1188,6 @@ Arranged In Biblical Order
 
    Jan. 9
 
-  GAINING BY GIVING
 
    "The liberal soul shall be made fat." Prov. 11:25
 
@@ -1276,7 +1215,6 @@ Arranged In Biblical Order
 
    Jan. 10
 
-  DIVINE RECOMPENSE
 
    "He that watereth shall be watered also himself." Prov. 11:25
 
@@ -1301,7 +1239,6 @@ Arranged In Biblical Order
 
    Jan. 11
 
-  FAITH SEES THE BOW
 
    "And it shall come to pass, when I bring a cloud over the earth, that
    the bow shall be seen in the cloud." Gen. 9:14
@@ -1356,7 +1293,6 @@ Arranged In Biblical Order
 
    Jan. 13
 
-  NEVER CAST OUT
 
    "Him that cometh to me I will in no wise cast out." John 6:37
 
@@ -1384,7 +1320,6 @@ Arranged In Biblical Order
 
    Jan. 14
 
-  REST IS A GIFT
 
    "Come unto me, all ye that labor and are heavy laden, and I will give
    you rest." Matt. 11:28
@@ -1411,7 +1346,6 @@ Arranged In Biblical Order
 
    Jan. 15
 
-  MADE RICH BY FAITH
 
    "For the needy shall not alway be forgotten: the expectation of the
    poor shall not perish for ever." Ps. 9:18
@@ -1438,7 +1372,6 @@ Arranged In Biblical Order
 
    Jan. 16
 
-  EVEN THE FAINTEST CALL
 
    "And it shall come to pass, that whosoever shall call on the name of
    the Lord shall be delivered." Joel 2:32
@@ -1465,7 +1398,6 @@ Arranged In Biblical Order
 
    Jan. 17
 
-  A MAN WITHOUT FEAR
 
    "And he said, Certainly I will be with thee." Exod. 3:12
 
@@ -1491,7 +1423,6 @@ Arranged In Biblical Order
 
    Jan. 18
 
-  CHRIST AND HIS CHILDREN
 
    "When thou shalt make his soul an offering for sin, he shall see his
    seed." Isa. 53:10
@@ -1549,7 +1480,6 @@ Arranged In Biblical Order
 
    Jan. 20
 
-  THE OVERCOMER
 
    "To him that overcometh will I give to eat of the tree of life, which
    is in the midst of the paradise of God." Rev. 2:7
@@ -1603,7 +1533,6 @@ Arranged In Biblical Order
 
    Jan. 22
 
-  CHRISTIAN LIBERALITY
 
    "Blessed is he that considereth the poor: the Lord will deliver him in
    time of trouble." Ps. 41:1
@@ -1629,7 +1558,6 @@ Arranged In Biblical Order
 
    Jan. 23
 
-  A COMPLETED SACRIFICE
 
    "And he shall put his hand upon the head of the burnt offering; and it
    shall be accepted for him to make atonement for him." Lev. 1:4
@@ -1663,7 +1591,6 @@ Arranged In Biblical Order
 
    Jan. 24
 
-  CARE OF OUR FEET
 
    "He will keep the feet of his saints." I Sam. 2:9
 
@@ -1693,7 +1620,6 @@ Arranged In Biblical Order
 
    Jan. 25
 
-  HE ACTS ON HONEST CONFESSION
 
    "He looketh upon men, and if any say, I have sinned, and perverted that
    which was right, and it profited me not; he will deliver his soul from
@@ -1721,7 +1647,6 @@ Arranged In Biblical Order
 
    Jan. 26
 
-  GOD ROUTS FEAR
 
    "Surely there is no enchantment against Jacob, neither is there any
    divination against Israel." Num. 23:23
@@ -1749,7 +1674,6 @@ Arranged In Biblical Order
 
    Jan. 27
 
-  PRECIOUS REPENTANCE
 
    "And there shall ye remember your ways, and all your doings, wherein ye
    have been defiled; and ye shall loathe yourselves in your own sight for
@@ -1774,7 +1698,6 @@ Arranged In Biblical Order
 
    Jan. 28
 
-  TEARS SHALL CEASE
 
    "And God shall wipe away all tears from their eyes." Rev. 21:4
 
@@ -1799,7 +1722,6 @@ Arranged In Biblical Order
 
    Jan. 29
 
-  OBEDIENCE BRINGS BLESSING
 
    "Observe and hear all these words which I command thee, that it may go
    well with thee, and with thy children after thee for ever, when thou
@@ -1827,7 +1749,6 @@ Arranged In Biblical Order
 
    Jan. 30
 
-  A HEAVENLY ESCORT
 
    "And, behold, I am with thee, and will keep thee in all places whither
    thou goest." Gen. 28:15
@@ -1854,7 +1775,6 @@ Arranged In Biblical Order
 
    Jan. 31
 
-  GOD ALWAYS HEARS
 
    "My God will hear me." Micah 7:7
 
@@ -1881,11 +1801,9 @@ Arranged In Biblical Order
    me."
      __________________________________________________________________
 
-                             THE MONTH OF FEBRUARY
 
    Feb. 1
 
-  NEVER DESPAIR
 
    "But unto you that fear my name shall the Sun of righteousness arise
    with healing in his wings" Mal. 4:2
@@ -1915,7 +1833,6 @@ Arranged In Biblical Order
 
    Feb. 2
 
-  GROW UP
 
    "And ye shall go forth, and grow up as calves of the stall" Mal. 4:2
 
@@ -1942,7 +1859,6 @@ Arranged In Biblical Order
 
    Feb. 3
 
-  HE FREELY GIVES
 
    "He that spared not his own Son, but delivered him up for us all, how
    shall he not with him also freely give us all things?" Rom. 8:32
@@ -1969,7 +1885,6 @@ Arranged In Biblical Order
 
    Feb. 4
 
-  HE WILL RETURN
 
    "I will not leave you comfortless: I will come to you" John 14:18
 
@@ -1995,7 +1910,6 @@ Arranged In Biblical Order
 
    Feb. 5
 
-  JUSTICE SATISFIED
 
    "When I see the blood, I will pass over you" Exod. 12:13
 
@@ -2023,7 +1937,6 @@ Arranged In Biblical Order
 
    Feb. 6
 
-  BLESSING IN THE CITY
 
    "If thou shalt hearken unto the voice of the Lord thy God, blessed
    shalt thou be in the city" Deut. 28:2, 3
@@ -2051,7 +1964,6 @@ Arranged In Biblical Order
 
    Feb. 7
 
-  RETURN FROM BACKSLIDING
 
    "If thou return to the Almighty, thou shalt be built up" Job 22:23
 
@@ -2077,7 +1989,6 @@ Arranged In Biblical Order
 
    Feb. 8
 
-  JOYFUL SECURITY
 
    "I will uphold thee with the right hand of my righteousness" Isa. 41:10
 
@@ -2102,7 +2013,6 @@ Arranged In Biblical Order
 
    Feb. 9
 
-  THE DROSS PURGED
 
    "And I will bring the third part through the fire, and will refine them
    as silver is refined, and will try them as gold is tried: they shall
@@ -2131,7 +2041,6 @@ Arranged In Biblical Order
 
    Feb. 10
 
-  A CONSTANT WITNESS
 
    "For thou shalt be his witness unto all men of what thou hast seen and
    heard" Acts 22:15
@@ -2189,7 +2098,6 @@ Arranged In Biblical Order
 
    Feb. 12
 
-  GOD DELIGHTS TO GIVE
 
    "And the Lord said unto Abraham, after that Lot was separated from him,
    Lift up now thine eyes, and look from the place where thou art
@@ -2216,7 +2124,6 @@ Arranged In Biblical Order
 
    Feb. 13
 
-  BLESSED IN THE FIELD
 
    "Blessed shalt thou be in the field" Deut. 28:3
 
@@ -2248,7 +2155,6 @@ Arranged In Biblical Order
 
    Feb. 14
 
-  MERCY TO THE UNDESERVING
 
    "He that trusteth in the Lord, mercy shall compass him about" Ps. 32:10
 
@@ -2274,7 +2180,6 @@ Arranged In Biblical Order
 
    Feb. 15
 
-  EVER MINDFUL
 
    "The Lord hath been mindful of us: he will bless us" Ps. 115:12
 
@@ -2300,7 +2205,6 @@ Arranged In Biblical Order
 
    Feb. 16
 
-  YOU DEAL WITH GOD
 
    "I will not execute the fierceness of mine anger, I will not return to
    destroy Ephraim: for I am God, and not man" Hos. 11:9
@@ -2326,7 +2230,6 @@ Arranged In Biblical Order
 
    Feb. 17
 
-  GOD CAN MAKE YOU STRONG
 
    "Be ye strong therefore, and let not your hands be weak: for your work
    shall be rewarded" II Chron. 15:7
@@ -2353,7 +2256,6 @@ Arranged In Biblical Order
 
    Feb. 18
 
-  GOD WILL ANSWER
 
    "He will fulfill the desire of them that fear him: he also will hear
    their cry, and will save them" Ps. 145:19
@@ -2383,7 +2285,6 @@ Arranged In Biblical Order
 
    Feb. 19
 
-  BETTER FARTHER ON
 
    "Though I have afflicted thee, I will afflict thee no more" Nah. 1:12
 
@@ -2411,7 +2312,6 @@ Arranged In Biblical Order
 
    Feb. 20
 
-  CONTINUAL GUIDANCE
 
    "The Lord shall guide thee continually" Isa. 58:11
 
@@ -2441,7 +2341,6 @@ Arranged In Biblical Order
 
    Feb. 21
 
-  BLESSING ON LITTLENESS
 
    "He will bless them that fear the Lord, both small and great" Ps.
    115:13
@@ -2468,7 +2367,6 @@ Arranged In Biblical Order
 
    Feb. 22
 
-  PAST DELIVERANCE BEGETS FAITH
 
    "David said moreover, The Lord that delivered me out of the paw of the
    lion, and out of the paw of the bear, he will deliver me out of the
@@ -2495,7 +2393,6 @@ Arranged In Biblical Order
 
    Feb. 23
 
-  UNBROKEN FELLOWSHIP ESSENTIAL
 
    "If ye abide in me, and my words abide in you, ye shall ask what ye
    will, and it shall be done unto you" John 15:7
@@ -2521,7 +2418,6 @@ Arranged In Biblical Order
 
    Feb. 24
 
-  HEAR SO AS TO BE HEARD
 
    "If ye abide in me, and my words abide in you, ye shall ask what ye
    will, and it shall be done unto you" John 15:7
@@ -2548,7 +2444,6 @@ Arranged In Biblical Order
 
    Feb. 25
 
-  SET APART
 
    "Ye shall be named the priests of the Lord" Isa. 61:6
 
@@ -2576,7 +2471,6 @@ Arranged In Biblical Order
 
    Feb. 26
 
-  TRUTH ESTABLISHED
 
    "The lip of truth shall be established for ever; but a lying tongue is
    but for a moment" Prov. 12:19
@@ -2604,7 +2498,6 @@ Arranged In Biblical Order
 
    Feb. 27
 
-  UNSTAGGERING TRUSTFULNESS
 
    "He shall not be afraid of evil tidings: his heart is fixed, trusting
    in the Lord" Ps. 112:7
@@ -2631,7 +2524,6 @@ Arranged In Biblical Order
 
    Feb. 28
 
-  REAL ESTATE IN HEAVEN
 
    "Knowing in yourselves that ye have in heaven a better and an enduring
    substance" Heb. 10:34
@@ -2658,7 +2550,6 @@ Arranged In Biblical Order
 
    Feb. 29
 
-  WHAT FOLLOWS US
 
    "Surely goodness and mercy shall follow me all the days of my life" Ps.
    23:6
@@ -2690,7 +2581,6 @@ Arranged In Biblical Order
    twenty-ninth of February a day to be remembered forever.
      __________________________________________________________________
 
-                               THE MONTH OF MARCH
 
    March 1
 
@@ -2723,7 +2613,6 @@ Arranged In Biblical Order
 
    March 2
 
-  GIVING WITHOUT A WHISPER
 
    "But when thou doest alms, let not thy left hand know what thy right
    hand doeth: that thine alms may be in secret: and thy Father which
@@ -2751,7 +2640,6 @@ Arranged In Biblical Order
 
    March 3
 
-  NOT LEFT TO PERISH
 
    "For thou wilt not leave my soul in hell; neither wilt thou suffer
    thine Holy One to see corruption" Ps. 16:10
@@ -2778,7 +2666,6 @@ Arranged In Biblical Order
 
    March 4
 
-  HONOR GOD
 
    "Them that honor me I will honor" I Sam. 2:30
 
@@ -2805,7 +2692,6 @@ Arranged In Biblical Order
 
    March 5
 
-  HOME BLESSINGS
 
    "He blesseth the habitation of the just" Prov. 3:33
 
@@ -2832,7 +2718,6 @@ Arranged In Biblical Order
 
    March 6
 
-  GUARDIAN OF THE FATHERLESS
 
    "In thee the fatherless findeth mercy" Hos. 14:3
 
@@ -2859,7 +2744,6 @@ Arranged In Biblical Order
 
    March 7
 
-  FROM FETTERS FREE
 
    "The Lord looseth the prisoners" Ps. 146:7
 
@@ -2886,7 +2770,6 @@ Arranged In Biblical Order
 
    March 8
 
-  OUR SUBSTANCE BLESSED
 
    "Blessed shall be thy basket and thy store" Deut. 28:5
 
@@ -2914,7 +2797,6 @@ Arranged In Biblical Order
 
    March 9
 
-  PRAYER FOR PEACE
 
    "And seek the peace of the city whither I have caused you to be carried
    away captives, and pray unto the Lord for it: for in the peace thereof
@@ -2943,7 +2825,6 @@ Arranged In Biblical Order
 
    March 10
 
-  WALK IN LIGHT
 
    "I am come a light into the world, that whosoever believeth on me
    should not abide in darkness" John 12:46
@@ -2999,7 +2880,6 @@ Arranged In Biblical Order
 
    March 12
 
-  GOING OUT WITH JOY
 
    "And of Zebulun he said, Rejoice, Zebulun, in thy going out" Deut.
    33:18
@@ -3027,7 +2907,6 @@ Arranged In Biblical Order
 
    March 13
 
-  DESPISE NOT THY YOUTH
 
    "Then said I, Ah, Lord God! behold, I cannot speak; for I am a child.
    But the Lord said unto me, Say not, I am a child: for thou shalt go to
@@ -3053,7 +2932,6 @@ Arranged In Biblical Order
 
    March 14
 
-  TENDER COMFORT
 
    "As one whom his mother comforteth, so will I comfort you" Isa. 66:13
 
@@ -3078,7 +2956,6 @@ Arranged In Biblical Order
 
    March 15
 
-  GOD IS A SANCTUARY
 
    "Therefore say, Thus saith the Lord God; Although I have cast them far
    off among the heathen, and although I have scattered them among the
@@ -3133,7 +3010,6 @@ Arranged In Biblical Order
 
    March 17
 
-  FEAR TO FEAR
 
    "Be not afraid of their faces: for I am with thee to deliver thee,
    saith the Lord" Jer. 1:8
@@ -3160,7 +3036,6 @@ Arranged In Biblical Order
 
    March 18
 
-  CONTINUE UPRIGHT
 
    "The prayer of the upright is his delight" Prov. 15:8
 
@@ -3187,7 +3062,6 @@ Arranged In Biblical Order
 
    March 19
 
-  BECOMING FIT FOR GLORY
 
    "The Lord will give grace and glory" Ps. 84:11
 
@@ -3215,7 +3089,6 @@ Arranged In Biblical Order
 
    March 20
 
-  DIVINE PROVISION
 
    "Wherefore, if God so clothe the grass of the field, which today is,
    and tomorrow is cast into the oven, shall he not much more clothe you,
@@ -3242,7 +3115,6 @@ Arranged In Biblical Order
 
    March 21
 
-  AVOID THAT SLIP
 
    "Then shalt thou walk in thy way safely, and thy foot shall not
    stumble" Prov. 3:23
@@ -3271,7 +3143,6 @@ Arranged In Biblical Order
 
    March 22
 
-  GRACE FOR THE HUMBLE
 
    "He giveth grace unto the humble" James 4:6
 
@@ -3297,7 +3168,6 @@ Arranged In Biblical Order
 
    March 23
 
-  A SURE GUIDE
 
    "I will bring the blind by a way that they knew not" Isa. 42:16
 
@@ -3322,7 +3192,6 @@ Arranged In Biblical Order
 
    March 24
 
-  ESTABLISHED AND KEPT
 
    "But the Lord is faithful, who shall stablish you, and keep you from
    evil" II Thess. 3:3
@@ -3349,7 +3218,6 @@ Arranged In Biblical Order
 
    March 25
 
-  REFRESHING SLEEP
 
    "When thou liest down, thou shalt not be afraid: yea, thou shalt lie
    down, and thy sleep shall be sweet" Prov. 3:24
@@ -3379,7 +3247,6 @@ Arranged In Biblical Order
 
    March 26
 
-  THE CARE OF THE POOR
 
    "The Lord will strengthen him upon the bed of languishing" Ps. 41:3
 
@@ -3406,7 +3273,6 @@ Arranged In Biblical Order
 
    March 27
 
-  DRAWING NEAR TO GOD
 
    "Draw nigh to God, and he will draw nigh to you" James 4:8
 
@@ -3430,7 +3296,6 @@ Arranged In Biblical Order
 
    March 28
 
-  LEAD THE WAY
 
    "The Lord shall make thee the head, and not the tail" Deut. 28:13
 
@@ -3457,7 +3322,6 @@ Arranged In Biblical Order
 
    March 29
 
-  DAUNTLESS FAITH
 
    "I am with thee, and no man shall set on thee to hurt thee" Acts 18:10
 
@@ -3510,7 +3374,6 @@ Arranged In Biblical Order
 
    March 31
 
-  PRESENCE OF MIND
 
    "Be not afraid of sudden fear, neither of the desolation of the wicked,
    when it cometh. For the Lord shall be thy confidence, and shall keep
@@ -3538,7 +3401,6 @@ Arranged In Biblical Order
    in Jesus, and let the Lord be thy confidence.
      __________________________________________________________________
 
-                               THE MONTH OF APRIL
 
    April 1
 
@@ -3598,7 +3460,6 @@ Arranged In Biblical Order
 
    April 3
 
-  SENSITIVE TO WARNING
 
    "Because thine heart was tender, and thou hast humbled thyself before
    the Lord, when thou heardest what I spake against this place, and
@@ -3650,7 +3511,6 @@ Arranged In Biblical Order
 
    April 5
 
-  NOT FORGOTTEN
 
    "Thou art my servant: O Israel, thou shalt not be for gotten of me"
    Isa. 44:21
@@ -3703,7 +3563,6 @@ Arranged In Biblical Order
 
    April 7
 
-  WITHOUT FEAR OF MAN
 
    "And all people of the earth shall see that thou art called by the name
    of the Lord; and they shall be afraid of thee" Deut. 28:10
@@ -3729,7 +3588,6 @@ Arranged In Biblical Order
 
    April 8
 
-  PRESERVED TO WORKS END
 
    "The Lord stood by him, and said, Be of good cheer, Paul: for as thou
    hast testified of me in Jerusalem, so must thou bear witness also at
@@ -3785,7 +3643,6 @@ Arranged In Biblical Order
 
    April 10
 
-  LOOK AND LIVE
 
    "And the Lord said unto Moses, Make thee a fiery serpent, and set it
    upon a pole: and it shall come to pass, that everyone that is bitten,
@@ -3811,7 +3668,6 @@ Arranged In Biblical Order
 
    April 11
 
-  CLOSE FELLOWSHIP
 
    "And they shall teach no more every man his neighbor, and every man his
    brother, saying, Know the Lord: for they shall all know me, from the
@@ -3837,7 +3693,6 @@ Arranged In Biblical Order
 
    April 12
 
-  HE REMEMBERS NO MORE
 
    "For I will forgive their iniquity, and I will remember their sin no
    more" Jer. 31:34
@@ -3866,7 +3721,6 @@ Arranged In Biblical Order
 
    April 13
 
-  THIS BODY FASHIONED ANEW
 
    "Who shall change our vile body, that it may be fashioned like unto his
    glorious body" Phil. 3:21
@@ -3894,7 +3748,6 @@ Arranged In Biblical Order
 
    April 14
 
-  MY CHOICE IS HIS CHOICE
 
    "He shall choose our inheritance for us" Ps. 47:4
 
@@ -3951,7 +3804,6 @@ Arranged In Biblical Order
 
    April 16
 
-  ALL TURNED TO HOLINESS
 
    "In that day shall there be upon the bells of the horses, HOLINESS UNTO
    THE LORD" Zech. 14:20
@@ -3977,7 +3829,6 @@ Arranged In Biblical Order
 
    April 17
 
-  ENEMIES AT PEACE
 
    "When a man's ways please the Lord, he maketh even his enemies to be at
    peace with him" Prov. 16:7
@@ -4005,7 +3856,6 @@ Arranged In Biblical Order
 
    April 18
 
-  HE NEVER FAILS
 
    "I will be with thee: I will not fail thee, nor forsake thee" Josh. 1:5
 
@@ -4034,7 +3884,6 @@ Arranged In Biblical Order
 
    April 19
 
-  AN EXPERT SEARCHER
 
    "For thus saith the Lord God; Behold, I, even I, will both search my
    sheep, and seek them out" Exod. 34:11
@@ -4061,7 +3910,6 @@ Arranged In Biblical Order
 
    April 20
 
-  BY FAITH NOT FEELING
 
    "The just shall live by faith" Rom. 1:17
 
@@ -4094,7 +3942,6 @@ Arranged In Biblical Order
 
    April 21
 
-  GOD REPAYS
 
    "He that hath pity upon the poor lendeth unto the Lord; and that which
    he hath given will he pay him again" Prov. 19:17
@@ -4121,7 +3968,6 @@ Arranged In Biblical Order
 
    April 22
 
-  POWER TO RAISE
 
    "The Lord openeth the eyes of the blind: the Lord raiseth them that are
    bowed down" Ps. 146:8
@@ -4150,7 +3996,6 @@ Arranged In Biblical Order
 
    April 23
 
-  NO FEAR OF DEATH
 
    "He that hath an ear, let him hear what the Spirit saith unto the
    churches; he that overcometh shall not be hurt of the second death"
@@ -4180,7 +4025,6 @@ Arranged In Biblical Order
 
    April 24
 
-  CONDITION OF BLESSING
 
    "Bring ye all the tithes into the storehouse, that there may be meat in
    mine house, and prove me now herewith, saith the Lord of hosts, if I
@@ -4207,7 +4051,6 @@ Arranged In Biblical Order
 
    April 25
 
-  WHAT TO LEAVE CHILDREN
 
    "The just man walketh in his integrity: his children are blessed after
    him" Prov. 20:7
@@ -4239,7 +4082,6 @@ Arranged In Biblical Order
 
    April 26
 
-  GRACIOUS DEALING
 
    "And the Lord thy God shall bless thee in all that thou doest" Deut.
    15:18
@@ -4266,7 +4108,6 @@ Arranged In Biblical Order
 
    April 27
 
-  GOD FINISHES HIS WORK
 
    "The Lord will perfect that which concerneth me" Ps. 138:8
 
@@ -4291,7 +4132,6 @@ Arranged In Biblical Order
 
    April 28
 
-  IT BECOMES MUTUAL
 
    "I will dwell in them, and walk in them; and I will be their God, and
    they shall be my people" II Cor. 6:16
@@ -4320,7 +4160,6 @@ Arranged In Biblical Order
 
    April 29
 
-  FORGET AND FORGIVE
 
    "Say not thou, I will recompense evil; but wait on the Lord, and he
    shall save thee" Prov. 20:22
@@ -4372,11 +4211,9 @@ Arranged In Biblical Order
    overcome.
      __________________________________________________________________
 
-                                THE MONTH OF MAY
 
    May 1
 
-  FULL OF SONG
 
    "The mountains and the hills shall break forth before you into singing,
    and all the trees of the field shall clap their hands" Isa. 55:12
@@ -4402,7 +4239,6 @@ Arranged In Biblical Order
 
    May 2
 
-  SPIRITUAL SOWING
 
    "He that soweth to the Spirit shall of the Spirit reap life
    everlasting" Gal. 6:8
@@ -4429,7 +4265,6 @@ Arranged In Biblical Order
 
    May 3
 
-  LISTEN FOR THE SIGNAL
 
    "And let it be, when thou hearest the sound of a going in the tops of
    the mulberry trees, that then thou shalt bestir thyself: for then shall
@@ -4456,7 +4291,6 @@ Arranged In Biblical Order
 
    May 4
 
-  VICTORY IN REVERSES
 
    "Rejoice not against me, O mine enemy: when I fall, I shall arise; when
    I sit in darkness, the Lord shall be a light unto me" Micah 7:8
@@ -4509,7 +4343,6 @@ Arranged In Biblical Order
 
    May 6
 
-  CURE FOR ENVY
 
    "Let not thine heart envy sinners: but be thou in the fear of the Lord
    all the day long. For surely there is an end; and thine expectation
@@ -4538,7 +4371,6 @@ Arranged In Biblical Order
 
    May 7
 
-  LET NO EVIL REMAIN
 
    "And there shall cleave nought of the cursed thing to thine hand: that
    the Lord may turn from the fierceness of his anger, and show thee
@@ -4565,7 +4397,6 @@ Arranged In Biblical Order
 
    May 8
 
-  HELP WANTED
 
    "Go ye also into the vineyard; and whatsoever is right, that shall ye
    receive" Matt. 20:7
@@ -4593,7 +4424,6 @@ Arranged In Biblical Order
 
    May 9
 
-  TRUST MEANS JOY
 
    "For our heart shall rejoice in him, because we have trusted in his
    holy name" Ps. 33:21
@@ -4621,7 +4451,6 @@ Arranged In Biblical Order
 
    May 10
 
-  FEAR ONLY GOD
 
    "So that we may boldly say, The Lord is my helper, and I will not fear
    what man shall do unto me" Heb. 13:6
@@ -4648,7 +4477,6 @@ Arranged In Biblical Order
 
    May 11
 
-  WAIT FOR THE FINALS
 
    "Gad, a troop shall overcome him: but he shall overcome at the last."
    Gen. 49:19
@@ -4675,7 +4503,6 @@ Arranged In Biblical Order
 
    May 12
 
-  SERVANTS HONORED
 
    "Whoso keepeth the fig tree shall eat the fruit thereof; so he that
    waiteth on his master shall be honored" Prov. 27:18
@@ -4702,7 +4529,6 @@ Arranged In Biblical Order
 
    May 13
 
-  DAY IS AT HAND
 
    "And I will give him the morning star" Rev. 2:28
 
@@ -4730,7 +4556,6 @@ Arranged In Biblical Order
 
    May 14
 
-  SURGERY FOR HEALING
 
    "Come, and let us return unto the Lord: for he hath torn, and he will
    heal us; he hath smitten, and he will bind us up Hosea 6:1
@@ -4782,7 +4607,6 @@ Arranged In Biblical Order
 
    May 16
 
-  WE RECEIVE AS WE GIVE
 
    "Blessed are the merciful: for they shall obtain mercy" Matt. 5:7
 
@@ -4808,7 +4632,6 @@ Arranged In Biblical Order
 
    May 17
 
-  NO NEED TO STINT
 
    "The upright shall have good things in possession" Prov. 28:10
 
@@ -4835,7 +4658,6 @@ Arranged In Biblical Order
 
    May 18
 
-  LOSSES OVERCOME
 
    "And I will restore to you the years that the locust hath eaten" Joel
    2:25
@@ -4862,7 +4684,6 @@ Arranged In Biblical Order
 
    May 19
 
-  WE MAY SPEAK FOR GOD
 
    "Therefore thus saith the Lord, If thou return, then will I bring thee
    again, and thou shalt stand before me: and if thou take forth the
@@ -4889,7 +4710,6 @@ Arranged In Biblical Order
 
    May 20
 
-  WE DARE NOT DOUBT
 
    "I will go before thee, and make the crooked places straight: I will
    break in pieces the gates of brass, and cut in sunder the bars of iron"
@@ -4944,7 +4764,6 @@ Arranged In Biblical Order
 
    May 22
 
-  SONG OF CONFIDENCE
 
    "Though I walk in the midst of trouble, thou wilt revive me: thou shalt
    stretch forth thine hand against the wrath of mine enemies, and thy
@@ -4972,7 +4791,6 @@ Arranged In Biblical Order
 
    May 23
 
-  FULL RELIANCE ON GOD
 
    "For he shall deliver the needy when he crieth; the poor also, and him
    that hath no helper" Ps. 72:12
@@ -5054,7 +4872,6 @@ Arranged In Biblical Order
 
    May 26
 
-  COMMONEST THINGS BLESSED
 
    "Ye shall serve the Lord your God, and he shall bless thy bread, and
    thy water" Exod. 23:25
@@ -5108,7 +4925,6 @@ Arranged In Biblical Order
 
    May 28
 
-  REMIND GOD OF HIS PROMISE
 
    "And thou saidst, I will surely do thee good" Gen. 32:12
 
@@ -5134,7 +4950,6 @@ Arranged In Biblical Order
 
    May 29
 
-  FISHERS FOLLOW HIM
 
    "And Jesus said unto them, Come ye after me, and I will make you to
    become fishers of men" Mark 1:17
@@ -5162,7 +4977,6 @@ Arranged In Biblical Order
 
    May 30
 
-  HOLY FORESIGHT
 
    "Nevertheless I say unto you, Hereafter shall ye see the Son of man
    sitting on the right hand of power, and coming in the clouds of Heaven"
@@ -5216,7 +5030,6 @@ Arranged In Biblical Order
    cheer, and sing unto my conquering Lord.
      __________________________________________________________________
 
-                               THE MONTH OF JUNE
 
    June 1
 
@@ -5247,7 +5060,6 @@ Arranged In Biblical Order
 
    June 2
 
-  IMMEDIATE FREEDOM
 
    "For now will I break his yoke from off thee, and will burst thy bonds
    in sunder." Nahum 1:13
@@ -5304,7 +5116,6 @@ Arranged In Biblical Order
 
    June 4
 
-  EXCEEDINGLY PRECIOUS
 
    "They shall be mine, saith the Lord of hosts, in that day when I make
    up my jewels." Mal. 3:17
@@ -5359,7 +5170,6 @@ Arranged In Biblical Order
 
    June 6
 
-  HE ALWAYS LISTENS
 
    "The Lord hath heard my supplication; the Lord will receive my prayer."
    Ps. 6:9
@@ -5387,7 +5197,6 @@ Arranged In Biblical Order
 
    June 7
 
-  THE SAFEST PLACE
 
    "And I give unto them eternal life; and they shall never perish,
    neither shall any man pluck them out of my hand." John 10:28
@@ -5418,7 +5227,6 @@ Arranged In Biblical Order
 
    June 8
 
-  WISDOM FOR THE ASKING
 
    "If any of you lack wisdom, let him ask of God, that giveth to all men
    liberally, and upbraideth not; and it shall be given him." James 1:5
@@ -5445,7 +5253,6 @@ Arranged In Biblical Order
 
    June 9
 
-  A TRUSTWORTHY NAME
 
    "I will also leave in the midst of thee an afflicted and poor people,
    and they shall trust in the name of the Lord" Zeph. 3:12
@@ -5473,7 +5280,6 @@ Arranged In Biblical Order
 
    June 10
 
-  A SHEPHERD SECURES THEM
 
    "They shall feed and lie down, and none shall make them afraid" Zeph.
    3:13
@@ -5500,7 +5306,6 @@ Arranged In Biblical Order
 
    June 11
 
-  NO CAUSE TO BLUSH
 
    "Fear not; for thou shalt not be ashamed" Isa. 54:4
 
@@ -5528,7 +5333,6 @@ Arranged In Biblical Order
 
    June 12
 
-  DWELLING SAFELY APART
 
    "Israel then shall dwell in safety alone: the fountain of Jacob shall
    be upon a land of corn and wine; also his heavens shall drop down dew"
@@ -5557,7 +5361,6 @@ Arranged In Biblical Order
 
    June 13
 
-  DIVINE CULTIVATION
 
    "I the Lord do keep it; I will water it every moment: lest any hurt it,
    I will keep it night and day" Isa. 27:3
@@ -5586,7 +5389,6 @@ Arranged In Biblical Order
 
    June 14
 
-  HE CONSTANTLY ABIDES
 
    "For the Lord will not forsake his people for his great name's sake;
    because it hath pleased the Lord to make you his people." I Sam. 12:22
@@ -5612,7 +5414,6 @@ Arranged In Biblical Order
 
    June 15
 
-  HOME BLESSINGS EXTENDED
 
    "The Lord shall bless thee out of Zion: and thou shalt see the good of
    Jerusalem all the days of thy life" Ps. 128:5
@@ -5640,7 +5441,6 @@ Arranged In Biblical Order
 
    June 16
 
-  POSSESS NOT ONLY PROFESS
 
    "For whosoever hath, to him shall be given, and he shall have more
    abundance" Matt. 13:12
@@ -5668,7 +5468,6 @@ Arranged In Biblical Order
 
    June 17
 
-  OUR FIELD OF BATTLE
 
    "For the Lord your God is he that goeth with you, to fight for you
    against your enemies, to save you" Deut. 20:4
@@ -5696,7 +5495,6 @@ Arranged In Biblical Order
 
    June 18
 
-  GOD HIMSELF SHALL WORK
 
    "Now will I rise, saith the Lord; now will I be exalted; now will I
    lift up myself" Isa. 33:10
@@ -5724,7 +5522,6 @@ Arranged In Biblical Order
 
    June 19
 
-  A SOUND HEART
 
    "Let my heart be sound in thy statutes: that I be not ashamed" Ps.
    119:80
@@ -5754,7 +5551,6 @@ Arranged In Biblical Order
 
    June 20
 
-  THE LORD OUR COMPANION
 
    "Yea, though I walk through the valley of the shadow of death, I will
    fear no evil: for thou art with me; thy rod and thy staff they comfort
@@ -5836,7 +5632,6 @@ Arranged In Biblical Order
 
    June 23
 
-  THE ENEMY FIRSTHAND
 
    "Therefore thus saith the Lord concerning the king of Assyria, He shall
    not come into this city, nor shoot an arrow there, nor come before it
@@ -5892,7 +5687,6 @@ Arranged In Biblical Order
 
    June 25
 
-  A STAIRCASE TO HEAVEN
 
    "And he saith unto him, Verily, verily, I say unto you, Hereafter ye
    shall see heaven open, and the angels of God ascending and descending
@@ -5921,7 +5715,6 @@ Arranged In Biblical Order
 
    June 26
 
-  IT WILL NOT BE LONG
 
    "Be ye also patient; stablish your hearts: for the coming of the Lord
    draweth nigh" James 5:8
@@ -5976,7 +5769,6 @@ Arranged In Biblical Order
 
    June 28
 
-  ONE LOOK FROM THE LORD
 
    "And the Lord looked upon him, and said, Go in this thy might, and thou
    shalt save Israel from the hand of the Midianites: have not I sent
@@ -6004,7 +5796,6 @@ Arranged In Biblical Order
 
    June 29
 
-  INVITATION TO PRAY
 
    "Call unto me, and I will answer thee, and shew thee great and mighty
    things, which thou knowest not" Jer. 33:3
@@ -6031,7 +5822,6 @@ Arranged In Biblical Order
 
    June 30
 
-  BACK THEN FORWARD
 
    "Nevertheless I will remember my covenant with thee in the days of thy
    youth, and I will establish unto thee an everlasting covenant" Ezek.
@@ -6059,11 +5849,9 @@ Arranged In Biblical Order
    it all this day!
      __________________________________________________________________
 
-                               THE MONTH OF JULY
 
    July 1
 
-  GOD WITH US
 
    "God shall be with you" Gen. 48:21
 
@@ -6090,7 +5878,6 @@ Arranged In Biblical Order
 
    July 2
 
-  REFRESHING SLEEP
 
    "So he giveth his beloved sleep" Ps. 127:2
 
@@ -6124,7 +5911,6 @@ Arranged In Biblical Order
 
    July 3
 
-  A GUIDE ALL THE WAY
 
    "He will be our guide even unto death" Ps. 48:14
 
@@ -6178,7 +5964,6 @@ Arranged In Biblical Order
 
    July 5
 
-  COMPLETE DELIVERANCE
 
    "But I will deliver thee in that day, saith the Lord; and thou shalt
    not be given into the hand of the men of whom thou art afraid." Jer.
@@ -6234,7 +6019,6 @@ Arranged In Biblical Order
 
    July 7
 
-  A MOUNTAIN CHOIR
 
    "Sing, O heavens; and be joyful, O earth; and break forth into singing,
    O mountains: for the Lord hath comforted his people, and will have
@@ -6260,7 +6044,6 @@ Arranged In Biblical Order
 
    July 8
 
-  AN ANGEL ENCAMPMENT
 
    "The angel of the Lord encampeth round about them that fear him, and
    delivereth them." Ps. 34:7
@@ -6285,7 +6068,6 @@ Arranged In Biblical Order
 
    July 9
 
-  FAITHFUL AND USEFUL
 
    "Mine eyes shall be upon the faithful of the land, that they may dwell
    with me: he that walketh in a perfect way, he shall serve me Ps. 101:6
@@ -6313,7 +6095,6 @@ Arranged In Biblical Order
 
    July 10
 
-  LOVE THE CHURCH
 
    "Thou shalt arise, and have mercy upon Zion: for the time to favor her,
    yea, the set time, is come. For thy servants take pleasure in her
@@ -6338,7 +6119,6 @@ Arranged In Biblical Order
 
    July 11
 
-  NEVER SEPARATED FROM GOD
 
    "And whosoever liveth and believeth in me shall never die. Believest
    thou this?" John 11:26
@@ -6395,7 +6175,6 @@ Arranged In Biblical Order
 
    July 13
 
-  IMPLICIT TRUST
 
    "For I will surely deliver thee, and thou shalt not fall by the sword,
    but thy life shall be for a prey unto thee: because thou hast put thy
@@ -6422,7 +6201,6 @@ Arranged In Biblical Order
 
    July 14
 
-  BURDENS CAST ON HIM
 
    "Cast thy burden upon the Lord, and he shall sustain thee; he shall
    never suffer the righteous to be moved." Ps. 55:22
@@ -6449,7 +6227,6 @@ Arranged In Biblical Order
 
    July 15
 
-  THE MOURNER COMFORTED
 
    "Blessed are they that mourn: for they shall be comforted." Matt. 5:4
 
@@ -6475,7 +6252,6 @@ Arranged In Biblical Order
 
    July 16
 
-  WORD TO HIM WHO HALTS
 
    "I will save her that halteth." Zeph. 3:19
 
@@ -6501,7 +6277,6 @@ Arranged In Biblical Order
 
    July 17
 
-  VALIANT FOR TRUTH
 
    "The people that do know their God shall be strong, and do exploits."
    Dan. 11:32
@@ -6528,7 +6303,6 @@ Arranged In Biblical Order
 
    July 18
 
-  WILDERNESS COMMUNION
 
    "I will allure her, and bring her into the wilderness, and speak
    comfortably unto her." Hosea 2:14
@@ -6556,7 +6330,6 @@ Arranged In Biblical Order
 
    July 19
 
-  HEAVY DUTY SHOES
 
    "Thy shoes shall be iron and brass; and as thy days, so shall thy
    strength be." Deut. 33:25
@@ -6584,7 +6357,6 @@ Arranged In Biblical Order
 
    July 20
 
-  LOOKING FOR HIM
 
    "Unto them that look for him shall he appear the second time without
    sin unto salvation." Heb. 9:28
@@ -6613,7 +6385,6 @@ Arranged In Biblical Order
 
    July 21
 
-  SHINE AS MANY STARS
 
    "And they that be wise shall shine as the brightness of the firmament;
    and they that turn many to righteousness as the stars for ever and
@@ -6640,7 +6411,6 @@ Arranged In Biblical Order
 
    July 22
 
-  AN ETERNAL PLEDGE
 
    "And I will betroth thee unto me for ever; yea, I will betroth thee
    unto me in righteousness, and in judgment, and in loving kindness, and
@@ -6667,7 +6437,6 @@ Arranged In Biblical Order
 
    July 23
 
-  ABSOLUTELY NO REMEMBRANCE
 
    "And their sins and iniquities will I remember no more." Heb. 10:17
 
@@ -6693,7 +6462,6 @@ Arranged In Biblical Order
 
    July 24
 
-  PERFECT PURITY
 
    "He that overcometh, the same shall be clothed in white raiment." Rev.
    3:5
@@ -6725,7 +6493,6 @@ Arranged In Biblical Order
 
    July 25
 
-  NOTHING TO ALARM US
 
    "But go thou thy way till the end be: for thou shalt rest, and stand in
    thy lot at the end of the days." Dan. 12:13
@@ -6753,7 +6520,6 @@ Arranged In Biblical Order
 
    July 26
 
-  A CHANGE OF NAME
 
    "And it shall be at that day, saith the Lord, that thou shalt call me
    Ishi; and shalt call me no more Baali; for I will take away the names
@@ -6779,7 +6545,6 @@ Arranged In Biblical Order
 
    July 27
 
-  MORE THAN MERE WORDS
 
    "I will give you the sure mercies of David." Acts 13:34
 
@@ -6835,7 +6600,6 @@ Arranged In Biblical Order
 
    July 29
 
-  HE ROUTS OUR ENEMY
 
    "He hath cast out thine enemy." Zeph. 3:15
 
@@ -6862,7 +6626,6 @@ Arranged In Biblical Order
 
    July 30
 
-  PROMISE OF FUTURE MEETING
 
    "I will see you again, and your heart shall rejoice." John 16:22
 
@@ -6917,11 +6680,9 @@ Arranged In Biblical Order
    and as He is sure to do it, let us begin to glorify Him at once.
      __________________________________________________________________
 
-                              THE MONTH OF AUGUST
 
    Aug. 1
 
-  COVENANT REACHES CHILDREN
 
    "And I will establish my covenant between me and thee and thy seed
    after thee in their generations for an everlasting covenant, to be a
@@ -6949,7 +6710,6 @@ Arranged In Biblical Order
 
    Aug. 2
 
-  SPEAK WHAT HE TEACHES
 
    "Now therefore go, and I will be with thy mouth, and teach thee what
    thou shalt say" Exod. 4:12
@@ -6976,7 +6736,6 @@ Arranged In Biblical Order
 
    Aug. 3
 
-  THE RIGHT TO HOLY THINGS
 
    "But if the priest buy any soul with his money, he shall eat of it, and
    he that is born in his house: they shall eat of his meat" Lev. 22:11
@@ -7004,7 +6763,6 @@ Arranged In Biblical Order
 
    Aug. 4
 
-  HE BLESSES AND KEEPS
 
    "The Lord bless thee, and keep thee" Num. 6:24
 
@@ -7033,7 +6791,6 @@ Arranged In Biblical Order
 
    Aug. 5
 
-  LAW IN THE HEART
 
    "The law of his God is in his heart; none of his steps shall slide" Ps.
    37:31
@@ -7087,7 +6844,6 @@ Arranged In Biblical Order
 
    Aug. 7
 
-  RULES FOR PROSPERITY
 
    "Only be thou strong and very courageous, that thou mayest observe to
    do according to all the law, which Moses my servant commanded thee:
@@ -7114,7 +6870,6 @@ Arranged In Biblical Order
 
    Aug. 8
 
-  CONFIDENCE NOT MISPLACED
 
    "The Lord God will help me" Isa. 50:7
 
@@ -7172,7 +6927,6 @@ Arranged In Biblical Order
 
    Aug. 10
 
-  HE LOWERS TO RAISE
 
    "The Lord maketh poor, and maketh rich: he bringeth low, and lifteth
    up" I Sam 2:7
@@ -7227,7 +6981,6 @@ Arranged In Biblical Order
 
    Aug. 12
 
-  LIGHT IN DARKNESS
 
    "For thou art my lamp, O Lord: and the Lord will lighten my darkness"
    II Sam. 22:29
@@ -7253,7 +7006,6 @@ Arranged In Biblical Order
 
    Aug. 13
 
-  BEFORE AND DURING THE CALL
 
    "It shall come to pass, that before they call, I will answer; and while
    they are yet speaking, I will hear" Isa. 65:24
@@ -7279,7 +7031,6 @@ Arranged In Biblical Order
 
    Aug. 14
 
-  CHILD CHASTISEMENT NOT FOREVER
 
    "And I will for this afflict the seed of David, but not for ever" I
    Kings 11:39
@@ -7307,7 +7058,6 @@ Arranged In Biblical Order
 
    Aug. 15
 
-  A NAME GUARANTEE
 
    "And whatsoever ye shall ask in my name, that will I do, that the
    Father may be glorified in the Son" John 14:13
@@ -7334,7 +7084,6 @@ Arranged In Biblical Order
 
    Aug. 16
 
-  UNCOVER AND CONFESS SIN
 
    "He that covereth his sins shall not prosper: but whoso confesseth and
    forsaketh them shall have mercy" Prov. 28:13
@@ -7418,7 +7167,6 @@ Arranged In Biblical Order
 
    Aug. 19
 
-  REWARD FOR THE RIGHTEOUS
 
    "So that a man shall say, Verily there is a reward for the righteous:
    verily he is a God that judgeth in the earth" Ps 58:11
@@ -7447,7 +7195,6 @@ Arranged In Biblical Order
 
    Aug. 20
 
-  DELIVERANCE NOT LIMITED
 
    "He shall deliver thee in six troubles: yea, in seven there shall no
    evil touch thee" Job 5:19
@@ -7533,7 +7280,6 @@ Arranged In Biblical Order
 
    Aug. 23
 
-  LOVE AND SEEK TRUE WISDOM
 
    "I love them that love me; and those that seek me early shalt find me"
    Prov. 8:17
@@ -7563,7 +7309,6 @@ Arranged In Biblical Order
 
    Aug. 24
 
-  GOD ABOVE HUMAN PHILOSOPHY
 
    "For it is written, I will destroy the wisdom of the wise, and will
    bring to nothing the understanding of the prudent" I Cor. 1:19
@@ -7590,7 +7335,6 @@ Arranged In Biblical Order
 
    Aug. 25
 
-  FOOD AND REST
 
    "I will feed my flock, and I will cause them to lie down, saith the
    Lord God" Ezek. 34:15
@@ -7618,7 +7362,6 @@ Arranged In Biblical Order
 
    Aug. 26
 
-  HE OF TENDER CONSCIENCE
 
    "I will judge between cattle and cattle" Ezek. 34:22
 
@@ -7647,7 +7390,6 @@ Arranged In Biblical Order
 
    Aug. 27
 
-  CHOICE MEN
 
    "I have chosen thee in the furnace of affliction" Isa. 48:10
 
@@ -7673,7 +7415,6 @@ Arranged In Biblical Order
 
    Aug. 28
 
-  OUT OF ANY CIRCUMSTANCE
 
    "As for me, I will call upon God; and the Lord shall save me" Ps. 55:16
 
@@ -7700,7 +7441,6 @@ Arranged In Biblical Order
 
    Aug. 29
 
-  PLENTIFUL REFRESHMENT
 
    "Their soul shall be as a watered garden" Jer. 31:12
 
@@ -7790,7 +7530,6 @@ Arranged In Biblical Order
    consolation. Feed on the word today, and all the days of thy life.
      __________________________________________________________________
 
-                             THE MONTH OF SEPTEMBER
 
    Sept. 1
 
@@ -7821,7 +7560,6 @@ Arranged In Biblical Order
 
    Sept. 2
 
-  FOLLOW TO KNOW
 
    "Then shall we know, if we follow on to know the Lord" Hosea 6:3
 
@@ -7848,7 +7586,6 @@ Arranged In Biblical Order
 
    Sept. 3
 
-  OUT OF SPIRITUAL DEATH
 
    "And ye shall know that I am the Lord, when I have opened your graves,
    O my people, and brought you up out of your graves" Ezek. 37:13
@@ -7875,7 +7612,6 @@ Arranged In Biblical Order
 
    Sept. 4
 
-  VICTORY WITHOUT BATTLE
 
    "But I will have mercy upon the house of Judah, and will save them by
    the Lord their God, and will not save them by bow, nor by sword, nor by
@@ -7902,7 +7638,6 @@ Arranged In Biblical Order
 
    Sept. 5
 
-  WITH ME WHEREVER I AM
 
    "The Lord will be with you" II Chron. 20:17
 
@@ -7931,7 +7666,6 @@ Arranged In Biblical Order
 
    Sept. 6
 
-  A STRONG HEART
 
    "Wait on the Lord: be of good courage, and he shall strengthen thine
    heart: wait, I say, on the Lord" Ps. 27:14
@@ -7961,7 +7695,6 @@ Arranged In Biblical Order
 
    Sept. 7
 
-  THE REACH OF ALMIGHTY GRACE
 
    "It shall come to pass, that in the place where it was said unto them,
    Ye are not my people, there it shall be said unto them, Ye are the sons
@@ -7989,7 +7722,6 @@ Arranged In Biblical Order
 
    Sept. 8
 
-  BROKEN AND SMOKING
 
    "A bruised reed shall he not break, and the smoking flax shall he not
    quench" Isa. 42:3
@@ -8016,7 +7748,6 @@ Arranged In Biblical Order
 
    Sept. 9
 
-  FEAR HAS ITS PLACE
 
    "Happy is the man that feareth alway" Prov. 28:14
 
@@ -8075,7 +7806,6 @@ Arranged In Biblical Order
 
    Sept. 11
 
-  SUFFERERS MAKE STRONG BELIEVERS
 
    "It is good for a man that he bear the yoke in his youth" Lam. 3:27
 
@@ -8133,7 +7863,6 @@ Arranged In Biblical Order
 
    Sept. 13
 
-  THE DEW OF HEAVEN
 
    "His heavens shall drop down dew" Deut. 33:28
 
@@ -8160,7 +7889,6 @@ Arranged In Biblical Order
 
    Sept. 14
 
-  MARK OF DIVINE APPROVAL
 
    "Blessed is the man that endureth temptation: for when he is tried, he
    shall receive the crown of life, which the Lord hath promised to them
@@ -8189,7 +7917,6 @@ Arranged In Biblical Order
 
    Sept. 15
 
-  THE SAFEST SHELTER
 
    "And a man shall be as an hiding-place from the wind and a covert from
    the tempest." Isa. 32:2
@@ -8217,7 +7944,6 @@ Arranged In Biblical Order
 
    Sept. 16
 
-  REWARD IS CERTAIN
 
    "And whosoever shall give to drink unto one of these little ones a cup
    of cold water only in the name of a disciple, verily I say unto you, he
@@ -8244,7 +7970,6 @@ Arranged In Biblical Order
 
    Sept. 17
 
-  LIKE PALM AND CEDAR
 
    "The righteous shall flourish like the palm tree: he shall grow like a
    cedar in Lebanon" Ps. 92:12
@@ -8272,7 +7997,6 @@ Arranged In Biblical Order
 
    Sept. 18
 
-  COMPLETE SAFETY
 
    "And of Benjamin he said, The beloved of the Lord shall dwell in safety
    by him; and the Lord shall cover him all the day long, and he shall
@@ -8300,7 +8024,6 @@ Arranged In Biblical Order
 
    Sept. 19
 
-  THE REASON FOR SINGING
 
    "The Lord thy God in the midst of thee is mighty; he will save, he will
    rejoice over thee with joy; he will rest in his love, he will joy over
@@ -8328,7 +8051,6 @@ Arranged In Biblical Order
 
    Sept. 20
 
-  PERFECT WILLINGNESS
 
    "Thy people shall be willing in the day of thy power" Ps. 110:3
 
@@ -8354,7 +8076,6 @@ Arranged In Biblical Order
 
    Sept. 21
 
-  LET TRIALS BLESS
 
    "Knowing that tribulation worketh patience" Rom. 5:3
 
@@ -8382,7 +8103,6 @@ Arranged In Biblical Order
 
    Sept. 22
 
-  BROAD RIVERS WITHOUT GALLEYS
 
    "But there the glorious Lord will be unto us a place of broad rivers
    and streams; wherein shall go no galley with oars, neither shall
@@ -8410,7 +8130,6 @@ Arranged In Biblical Order
 
    Sept. 23
 
-  DELIVERANCE FROM DUST AND CHAFF
 
    "For, lo, I will command, and I will sift the house of Israel among all
    nations, like as corn is sifted in a sieve, yet shall not the least
@@ -8462,7 +8181,6 @@ Arranged In Biblical Order
 
    Sept. 25
 
-  THE SACRIFICE HAS BEEN ACCEPTED
 
    "If the Lord were pleased to kill us, he would not have received a
    burnt offering and a meat offering at our hands, neither would he have
@@ -8490,7 +8208,6 @@ Arranged In Biblical Order
 
    Sept. 26
 
-  AMONG THE REDEEMED
 
    "Lo, the people shall dwell alone, and shall not be reckoned among the
    nations" Num. 23:9
@@ -8518,7 +8235,6 @@ Arranged In Biblical Order
 
    Sept. 27
 
-  THE DIVINE LIGHT IN DARKNESS
 
    "For thou wilt light my candle" Ps. 18:28
 
@@ -8574,7 +8290,6 @@ Arranged In Biblical Order
 
    Sept. 29
 
-  TO GLORIFY CHRIST JESUS
 
    "He shall glorify me: for he shall receive of mine, and shall shew it
    unto you." John 16:14
@@ -8602,7 +8317,6 @@ Arranged In Biblical Order
 
    Sept. 30
 
-  NEEDS TO OPEN OUR MOUTHS
 
    "Open thy mouth wide, and I will fill it" Ps. 81:10
 
@@ -8629,11 +8343,9 @@ Arranged In Biblical Order
    Himself. So be it unto us, O Lord, this day.
      __________________________________________________________________
 
-                              THE MONTH OF OCTOBER
 
    Oct. 1
 
-  A COVENANT HE REMEMBERS
 
    "He hath given meat unto them that fear him: he will ever be mindful of
    his covenant" Ps. 111:5
@@ -8662,7 +8374,6 @@ Arranged In Biblical Order
 
    Oct. 2
 
-  COMFORT EN ROUTE HOME
 
    "And Joseph said unto his brethren, I die: and God will surely visit
    you, and bring you out of this land unto the land which he sware to
@@ -8716,7 +8427,6 @@ Arranged In Biblical Order
 
    Oct. 4
 
-  THE MIGHTY MAGNET
 
    "And I, if I be lifted up from the earth, will draw all men unto me"
    John 12:32
@@ -8770,7 +8480,6 @@ Arranged In Biblical Order
 
    Oct. 6
 
-  THE LEADERSHIP OF OUR GUIDE
 
    "Howbeit when he, the Spirit of truth, is come, he will guide you into
    all truth" John 16:13
@@ -8797,7 +8506,6 @@ Arranged In Biblical Order
 
    Oct. 7
 
-  ALWAYS FIRST IN FELLOWSHIP
 
    "He goeth before you into Galilee; there shall ye see him, as he said
    unto you." Mark 16:7
@@ -8825,7 +8533,6 @@ Arranged In Biblical Order
 
    Oct. 8
 
-  NEVER ALONE
 
    "Thou shalt no more be termed Forsaken" Isa. 62:4
 
@@ -8881,7 +8588,6 @@ Arranged In Biblical Order
 
    Oct. 10
 
-  OPEN DOOR OF COMMUNION
 
    "I have set before thee an open door, and no man can shut it" Rev. 3:8
 
@@ -8911,7 +8617,6 @@ Arranged In Biblical Order
 
    Oct. 11
 
-  FREE TO TRAVEL
 
    "And I will strengthen them in the Lord: and they shall walk up and
    down in his name, saith the Lord" Zech. 10:12
@@ -8938,7 +8643,6 @@ Arranged In Biblical Order
 
    Oct. 12
 
-  MARK OF COVENANT GRACE
 
    "And the Lord thy God will circumcise thine heart, and the heart of thy
    seed, to love the Lord thy God with all thine heart, and with all thy
@@ -8999,7 +8703,6 @@ Arranged In Biblical Order
 
    Oct. 14
 
-  NEVER ASHAMED
 
    "Whosoever therefore shall confess me before men, him will I confess
    also before my Father which is in heaven" Matt. 10:32
@@ -9025,7 +8728,6 @@ Arranged In Biblical Order
 
    Oct. 15
 
-  SUSTAINED BY FEEDING
 
    "As the living Father hath sent me, and I live by the Father: so he
    that eateth me, even he shall live by me" John 6:57
@@ -9053,7 +8755,6 @@ Arranged In Biblical Order
 
    Oct. 16
 
-  ONE WITH CHRIST JESUS
 
    "Because I live, ye shall live also" John 14:19
 
@@ -9079,7 +8780,6 @@ Arranged In Biblical Order
 
    Oct. 17
 
-  HOLY FEAR
 
    "He that feareth the commandment shall be rewarded" Prov. 13:13
 
@@ -9132,7 +8832,6 @@ Arranged In Biblical Order
 
    Oct. 19
 
-  REGULATED CHASTISEMENT
 
    "I will correct thee in measure" Jer. 30:11
 
@@ -9158,7 +8857,6 @@ Arranged In Biblical Order
 
    Oct. 20
 
-  FROM EVERY SIN
 
    "He shall save his people from their sins" Matt. 1:21
 
@@ -9212,7 +8910,6 @@ Arranged In Biblical Order
 
    Oct. 22
 
-  PLEAD HIS OWN PROMISE
 
    "Thou, O Lord God, hast spoken it: and with thy blessing let the house
    of thy servant be blessed for ever" II Sam. 7:29
@@ -9267,7 +8964,6 @@ Arranged In Biblical Order
 
    Oct. 24
 
-  GODLY STABILITY
 
    "And I will make thee unto this people a fenced brazen wall: and they
    shall fight against thee, but they shall not prevail against thee; for
@@ -9322,7 +9018,6 @@ Arranged In Biblical Order
 
    Oct. 26
 
-  BECAUSE OF US
 
    "For the elect's sake those days be shortened" Matt. 24:22
 
@@ -9378,7 +9073,6 @@ Arranged In Biblical Order
 
    Oct. 28
 
-  SINS OF IGNORANCE
 
    "And it shall be forgiven them; for it is ignorance" Num. 15:25
 
@@ -9406,7 +9100,6 @@ Arranged In Biblical Order
 
    Oct. 29
 
-  MAINTAIN THE DIFFERENCE
 
    "And I will put a division between my people and thy people: tomorrow
    shall this sign be" Exod. 8:23
@@ -9435,7 +9128,6 @@ Arranged In Biblical Order
 
    Oct. 30
 
-  THOROUGH CLEANSING
 
    "Then will I sprinkle clean water upon you, and ye shall be clean: from
    all your filthiness, and from all your idols, will I cleanse you" Ezek.
@@ -9465,7 +9157,6 @@ Arranged In Biblical Order
 
    Oct. 31
 
-  IMMORTAL TILL WORK DONE
 
    "I shall not die, but live, and declare the works of the Lord" Ps.
    118:17
@@ -9490,11 +9181,9 @@ Arranged In Biblical Order
    the Lord wills it no vault can close upon me.
      __________________________________________________________________
 
-                             THE MONTH OF NOVEMBER
 
    Nov. 1
 
-  PERFECTION AND PRESERVATION
 
    "Faithful is he that calleth you, who also will do it" I Thess. 5:24
 
@@ -9522,7 +9211,6 @@ Arranged In Biblical Order
 
    Nov. 2
 
-  HEAVENLY WEALTH
 
    "No good thing will he withhold from them that walk uprightly" Ps.
    84:11
@@ -9580,7 +9268,6 @@ Arranged In Biblical Order
 
    Nov. 4
 
-  YOU MARK THE TRENCHES
 
    "And he said, Thus saith the Lord, Make this valley full of ditches.
    For thus saith the Lord, Ye shall not see wind, neither shall ye see
@@ -9607,7 +9294,6 @@ Arranged In Biblical Order
 
    Nov. 5
 
-  WHAT IS PAINFUL WILL END
 
    "I will not contend for ever, neither will I be always wrath: for the
    spirit should fail before me, and the souls which I have made" Isa.
@@ -9634,7 +9320,6 @@ Arranged In Biblical Order
 
    Nov. 6
 
-  DELIGHT AND DESIRES
 
    "Delight thyself also in the Lord; and he shall give thee the desires
    of thine heart" Ps. 37:4
@@ -9661,7 +9346,6 @@ Arranged In Biblical Order
 
    Nov. 7
 
-  TRUE HUMILITY REWARDED
 
    "He that humbleth himself shall be exalted" Luke 18:14
 
@@ -9689,7 +9373,6 @@ Arranged In Biblical Order
 
    Nov. 8
 
-  THE MAGNITUDE OF GRACE
 
    "My grace is sufficient for thee; for my strength is made perfect in
    weakness" II Cor. 12:9
@@ -9717,7 +9400,6 @@ Arranged In Biblical Order
 
    Nov. 9
 
-  NECESSARY KNOWLEDGE
 
    "Thus shall they know that I the Lord their God am with them, and that
    they, even the house of Israel, are my people, saith the Lord God"
@@ -9746,7 +9428,6 @@ Arranged In Biblical Order
 
    Nov. 10
 
-  WALK WITHOUT STUMBLING
 
    "He will not suffer thy foot to be moved" Ps. 121:3
 
@@ -9801,7 +9482,6 @@ Arranged In Biblical Order
 
    Nov. 12
 
-  SANCTIFIED SOULS ARE SATISFIED
 
    "My people shall be satisfied with my goodness, saith the Lord" Jer.
    31:14
@@ -9833,7 +9513,6 @@ Arranged In Biblical Order
 
    Nov. 13
 
-  THE UNFAILING WATCH
 
    "Behold, he that keepeth Israel shall neither slumber nor sleep" Ps.
    121:4
@@ -9863,7 +9542,6 @@ Arranged In Biblical Order
 
    Nov. 14
 
-  THE NAME TO USE
 
    "If ye shall ask anything in my name, I will do it" John 14:14
 
@@ -9892,7 +9570,6 @@ Arranged In Biblical Order
 
    Nov. 15
 
-  LIMITLESS RICHES
 
    "My God shall supply all your need according to his riches in glory by
    Christ Jesus" Phil. 4:19
@@ -9920,7 +9597,6 @@ Arranged In Biblical Order
 
    Nov. 16
 
-  WEAPONS DOOMED TO FAIL
 
    "No weapon that is formed against thee shall prosper; and every tongue
    that shall rise against thee in judgment thou shalt condemn" Isa. 54:17
@@ -9946,7 +9622,6 @@ Arranged In Biblical Order
 
    Nov. 17
 
-  GOD NEVER FORSAKES
 
    "For the Lord will not cast off his people, neither will he forsake his
    inheritance" Ps. 94:14
@@ -9979,7 +9654,6 @@ Arranged In Biblical Order
 
    Nov. 18
 
-  CLEARLY SUPERNATURAL
 
    "In that day shall the Lord defend the inhabitants of Jerusalem: and he
    that is feeble among them at that day shall be as David; and the house
@@ -10009,7 +9683,6 @@ Arranged In Biblical Order
 
    Nov. 19
 
-  FROM OBEDIENCE TO BLESSING
 
    "From this day will I bless you" Haggai 2:19
 
@@ -10036,7 +9709,6 @@ Arranged In Biblical Order
 
    Nov. 20
 
-  HUNGER SATISFIED
 
    "For he satisfieth the longing soul, and filleth the hungry soul with
    goodness" Ps. 107:9
@@ -10094,7 +9766,6 @@ Arranged In Biblical Order
 
    Nov. 22
 
-  NO CONDEMNATION
 
    "In those days, and in that time, saith the Lord, the iniquity of
    Israel shall be sought for, and there shall be none; and the sins of
@@ -10123,7 +9794,6 @@ Arranged In Biblical Order
 
    Nov. 23
 
-  ACQUIRING PERSEVERANCE
 
    "The Lord thy God will put out those nations before thee by little and
    little" Deut. 7:22
@@ -10153,7 +9823,6 @@ Arranged In Biblical Order
 
    Nov. 24
 
-  PARDON AND FORGIVENESS
 
    "He will not always chide: neither will he keep his anger for ever" Ps.
    103:9
@@ -10181,7 +9850,6 @@ Arranged In Biblical Order
 
    Nov. 25
 
-  MOUNTAINS TURNED TO PLAINS
 
    "Who art thou, O great mountain? before Zerubbabel thou shalt become a
    plain: and he shall bring forth the headstone thereof with shoutings,
@@ -10208,7 +9876,6 @@ Arranged In Biblical Order
 
    Nov. 26
 
-  HEAVENLY ALCHEMY
 
    "Your sorrow shall be turned into joy" John 16:20
 
@@ -10237,7 +9904,6 @@ Arranged In Biblical Order
 
    Nov. 27
 
-  REST IN ALL THY GOINGS
 
    "And he said, My presence shall go with thee, and I will give thee
    rest" Ex. 33:14
@@ -10265,7 +9931,6 @@ Arranged In Biblical Order
 
    Nov. 28
 
-  DOING WHAT GOD CAN BLESS
 
    "The Lord shall command the blessing upon thee in thy storehouses, and
    in all that thou settest thine hand unto" Deut. 28:8
@@ -10292,7 +9957,6 @@ Arranged In Biblical Order
 
    Nov. 29
 
-  KNOW HOW TO WAIT
 
    "He that believeth shall not make haste" Isa. 28:16
 
@@ -10322,7 +9986,6 @@ Arranged In Biblical Order
 
    Nov. 30
 
-  GOD IS IN THE FRONT LINE
 
    "The Lord, he it is that doth go before thee; he will be with thee, he
    will not fail thee, neither forsake thee: fear not, neither be
@@ -10351,11 +10014,9 @@ Arranged In Biblical Order
    victory.
      __________________________________________________________________
 
-                             THE MONTH OF DECEMBER
 
    Dec. 1
 
-  TRUE WALKING POSTURE
 
    "He that walketh uprightly walketh surely" Prov. 10:9
 
@@ -10382,7 +10043,6 @@ Arranged In Biblical Order
 
    Dec. 2
 
-  OUR HOLIEST EXAMPLE
 
    "I have set the Lord always before me: because he is at my right hand,
    I shall not be moved" Ps. 16:8
@@ -10409,7 +10069,6 @@ Arranged In Biblical Order
 
    Dec. 3
 
-  PEACE WHATEVER EXPOSURE
 
    "I will make them a covenant of peace, and will cause the evil beasts
    to cease out of the land: and they shall dwell safely in the
@@ -10436,7 +10095,6 @@ Arranged In Biblical Order
 
    Dec. 4
 
-  COVERED AND PROTECTED
 
    "He shall cover thee with his feathers, and under his wings shalt thou
    trust: his truth shall be thy shield and buckler" Ps. 91:4
@@ -10465,7 +10123,6 @@ Arranged In Biblical Order
 
    Dec. 5
 
-  HIGH PLACES OF DEFENSE
 
    "He shall dwell on high: his place of defense shall be the munitions of
    rocks: bread shall be given him; his waters shall be sure" Isa. 33:16
@@ -10552,7 +10209,6 @@ Arranged In Biblical Order
 
    Dec. 8
 
-  FOLLOWING LEADS TO HONOR
 
    "If any man serve me, let him follow me; and where I am, there shall
    also my servant be: if any man serve me, him will my Father honor" John
@@ -10612,7 +10268,6 @@ Arranged In Biblical Order
 
    Dec. 10
 
-  GOD IS OUR ALLY
 
    "But if thou shalt indeed obey his voice, and do all that I speak; then
    I will be an enemy unto thine enemies, and an adversary unto thine
@@ -10668,7 +10323,6 @@ Arranged In Biblical Order
 
    Dec. 12
 
-  A QUIET HEART
 
    "In quietness and in confidence shall be your strength" Isa. 30:15
 
@@ -10697,7 +10351,6 @@ Arranged In Biblical Order
 
    Dec. 13
 
-  EVENING BRIGHTENS INTO DAY
 
    "It shall come to pass, that at evening time it shall be light" Zech.
    14:7
@@ -10725,7 +10378,6 @@ Arranged In Biblical Order
 
    Dec. 14
 
-  NOTHING OLD
 
    "And he that sat upon the throne said, Behold, I make all things new"
    Rev. 21:5
@@ -10752,7 +10404,6 @@ Arranged In Biblical Order
 
    Dec. 15
 
-  WORLD CONCORD
 
    "And they shall beat their swords into plowshares, and their spears
    into pruninghooks: nation shall not lift up sword against nation,
@@ -10779,7 +10430,6 @@ Arranged In Biblical Order
 
    Dec. 16
 
-  DIVINE EXPULSION
 
    "Thou shalt drive out the Canaanites, though they have iron chariots,
    and though they be strong" Joshua 17:18
@@ -10806,7 +10456,6 @@ Arranged In Biblical Order
 
    Dec. 17
 
-  NEAREST AND DEAREST FELLOWSHIP
 
    "So shall we ever be with the Lord" I Thess. 4:17
 
@@ -10834,7 +10483,6 @@ Arranged In Biblical Order
 
    Dec. 18
 
-  DEFENDED AND COVERED
 
    "As birds flying, so will the Lord of hosts defend Jerusalem" Isa. 31:5
 
@@ -10917,7 +10565,6 @@ Arranged In Biblical Order
 
    Dec. 21
 
-  FROM ANGER TO LOVE
 
    "He will turn again, he will have compassion upon us; he will subdue
    our iniquities; and thou wilt cast all their sins into the depths of
@@ -10945,7 +10592,6 @@ Arranged In Biblical Order
 
    Dec. 22
 
-  IMMEDIATELY PRESENT
 
    "God is our refuge and strength, a very present help in trouble" Ps.
    46:1
@@ -10972,7 +10618,6 @@ Arranged In Biblical Order
 
    Dec. 23
 
-  PRECIOUS THINGS
 
    "And of Joseph he said, Blessed of the Lord be his land, for the
    precious things of heaven, for the dew, and for the deep that coucheth
@@ -10999,7 +10644,6 @@ Arranged In Biblical Order
 
    Dec. 24
 
-  OVER JORDAN WITH SINGING
 
    "Thine enemies shall be found liars unto thee" Deut. 33:29
 
@@ -11088,7 +10732,6 @@ Arranged In Biblical Order
 
    Dec. 27
 
-  HIS KINDNESS AND COVENANT
 
    "For the mountains shall depart, and the hills be removed; but my
    kindness shall not depart from thee, neither shall the covenant of my
@@ -11115,7 +10758,6 @@ Arranged In Biblical Order
 
    Dec. 28
 
-  ABSOLUTE ASSURANCE
 
    "He hath said, I will never leave thee, nor forsake thee" Heb. 13:5
 
@@ -11141,7 +10783,6 @@ Arranged In Biblical Order
 
    Dec. 29
 
-  HE WILL CARRY US HOME
 
    "And even to your old age I am he; and even to hoar hairs will I carry
    you: I have made, and I will bear; even I will carry, and will deliver
@@ -11170,7 +10811,6 @@ Arranged In Biblical Order
 
    Dec. 30
 
-  LOVED TO PERFECTION
 
    "Having loved his own which were in the world, he loved them unto the
    end" John 13:1
@@ -11201,7 +10841,6 @@ Arranged In Biblical Order
 
    Dec. 31
 
-  NO STRANGER IN HEAVEN
 
    "Thou shalt guide me with thy counsel, and afterward receive me to
    glory" Ps. 73:24
@@ -11225,7 +10864,6 @@ Arranged In Biblical Order
    stranger in Heaven: my own God and Father will receive me to its
    endless bliss.
 
-   GLORY BE TO HIM WHO
 
    WILL GUIDE ME HERE,
 

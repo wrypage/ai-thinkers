@@ -33412,7 +33412,6 @@ in this work, are not in general referred to in the margin; such
 references having been considered of no use, except to persons who will
 probably be furnished with the original, in which they are all inserted.
 
-THE END
 
 
 
@@ -33420,13 +33419,11 @@ THE END
                 SCRIPTURE INDEX TO CALVIN’S INSTITUTES.
 
 
-ARRANGED AND PRESENTED
 
 BY
 
 S. T. LIVERMORE,
 
-TO THE
 
 PRESBYTERIAN BOARD OF PUBLICATION.
 
@@ -33768,11 +33765,9 @@ NUMBERS.
 
                        xxiii          10   1  397
                                       19   1  209
-                                       4
                        xxviii          3   2  245
 
 
-DEUTERONOMY
 
                        Chapter.   Verse. Vol Page
 
@@ -38396,7 +38391,6 @@ license, especially commercial redistribution.
 
 START: FULL LICENSE
 
-THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 

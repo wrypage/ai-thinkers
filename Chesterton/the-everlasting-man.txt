@@ -22,20 +22,16 @@ Credits: Tim Lindell, Chuck Greif and the Online Distributed Proofreading Team a
 
 *** START OF THE PROJECT GUTENBERG EBOOK THE EVERLASTING MAN ***
 
-                          THE EVERLASTING MAN
 
 
 
 
                                   THE
-                            EVERLASTING MAN
 
                                   BY
                            G. K. CHESTERTON
 
 
-                         HODDER AND STOUGHTON
-                          LIMITED      LONDON
 
 
                    Made and Printed in Great Britain
@@ -44,7 +40,6 @@ Credits: Tim Lindell, Chuck Greif and the Online Distributed Proofreading Team a
 
 
 
-PREFATORY NOTE
 
 
 This book needs a preliminary note that its scope be not misunderstood.
@@ -72,7 +67,6 @@ which the specialists provide.
 
 
 
-CONTENTS
 
 
                                                                     PAGE
@@ -82,7 +76,6 @@ INTRODUCTION: THE PLAN OF THIS BOOK                                    3
 
                                _PART I_
 
-                      ON THE CREATURE CALLED MAN
 
 CHAP.
 
@@ -105,7 +98,6 @@ VIII. THE END OF THE WORLD                                           171
 
                                _PART II_
 
-                       ON THE MAN CALLED CHRIST
 
 CHAP.
 
@@ -132,9 +124,7 @@ APPENDIX II.: ON AUTHORITY AND ACCURACY                              315
 
 
 
-INTRODUCTION
 
-THE PLAN OF THIS BOOK
 
 
 There are two ways of getting home; and one of them is to stay there.
@@ -166,8 +156,8 @@ they make current an anti-clerical cant as a sort of small-talk. They
 will complain of parsons dressing like parsons; as if we should be any
 more free if all the police who shadowed or collared us were
 plain-clothes detectives. Or they will complain that a sermon cannot be
-interrupted, and call a pulpit a coward’s castle; though they do not
-call an editor’s office a coward’s castle. It would be unjust both to
+interrupted, and call a pulpit a coward���s castle; though they do not
+call an editor���s office a coward���s castle. It would be unjust both to
 journalists and priests; but it would be much truer of journalists. The
 clergyman appears in person and could easily be kicked as he came out of
 church; the journalist conceals even his name so that nobody can kick
@@ -176,12 +166,12 @@ about why the churches are empty, without even going there to find out
 if they are empty, or which of them are empty. Their suggestions are
 more vapid and vacant than the most insipid curate in a three-act farce,
 and move us to comfort him after the manner of the curate in the Bab
-Ballads; ‘Your mind is not so blank as that of Hopley Porter.’ So we may
-truly say to the very feeblest cleric: ‘Your mind is not so blank as
+Ballads; ���Your mind is not so blank as that of Hopley Porter.��� So we may
+truly say to the very feeblest cleric: ���Your mind is not so blank as
 that of Indignant Layman or Plain Man or Man in the Street, or any of
 your critics in the newspapers; for they have not the most shadowy
 notion of what they want themselves, let alone of what you ought to give
-them.’ They will suddenly turn round and revile the Church for not
+them.��� They will suddenly turn round and revile the Church for not
 having prevented the War, which they themselves did not want to prevent;
 and which nobody had ever professed to be able to prevent, except some
 of that very school of progressive and cosmopolitan sceptics who are the
@@ -194,7 +184,7 @@ discredited by the Flood. When the world goes wrong, it proves rather
 that the Church is right. The Church is justified, not because her
 children do not sin, but because they do. But that marks their mood
 about the whole religious tradition: they are in a state of reaction
-against it. It is well with the boy when he lives on his father’s land;
+against it. It is well with the boy when he lives on his father���s land;
 and well with him again when he is far enough from it to look back on it
 and see it as a whole. But these people have got into an intermediate
 state, have fallen into an intervening valley from which they can see
@@ -284,7 +274,7 @@ professors of comparative religion are in the least impartial. Why
 should they be impartial, what is being impartial, when the whole world
 is at war about whether one thing is a devouring superstition or a
 divine hope? I do not pretend to be impartial in the sense that the
-final act of faith fixes a man’s mind because it satisfies his mind. But
+final act of faith fixes a man���s mind because it satisfies his mind. But
 I do profess to be a great deal more impartial than they are; in the
 sense that I can tell the story fairly, with some sort of imaginative
 justice to all sides; and they cannot. I do profess to be impartial in
@@ -354,7 +344,7 @@ St. George in the clouds. The fable of the winged horse will not be
 wholly unnatural to him: and he will know why Ariosto set many a
 Christian hero in such an airy saddle, and made him the rider of the
 sky. For the horse has really been lifted up along with the man in the
-wildest fashion in the very word we use when we speak of ‘chivalry.’ The
+wildest fashion in the very word we use when we speak of ���chivalry.��� The
 very name of the horse has been given to the highest mood and moment of
 the man; so that we might almost say that the handsomest compliment to a
 man is to call him a horse.
@@ -370,7 +360,7 @@ merely a fashion; perhaps they have gone out of fashion; perhaps they
 have been talked about too much or talked about in the wrong way;
 perhaps it was then difficult to care for horses without the horrible
 risk of being horsy. Anyhow, he has got into a condition when he cares
-no more for a horse than for a towel-horse. His grandfather’s charge at
+no more for a horse than for a towel-horse. His grandfather���s charge at
 Balaclava seems to him as dull and dusty as the album containing such
 family portraits. Such a person has not really become enlightened about
 the album; on the contrary, he has only become blind with the dust. But
@@ -515,16 +505,12 @@ still as new as it is old.
 
 
 
-PART I
-
-ON THE CREATURE CALLED MAN
 
 
 
 
-CHAPTER I
 
-THE MAN IN THE CAVE
+
 
 
 Far away in some strange constellation in skies infinitely remote, there
@@ -559,8 +545,8 @@ Allen. And I remember that the editor objected to my remark on the
 ground that it was blasphemous; which naturally amused me not a little.
 For the joke of it was, of course, that it never occurred to him to
 notice the title of the book itself, which really was blasphemous; for
-it was, when translated into English, ‘I will show you how this
-nonsensical notion that there is a God grew up among men.’ My remark was
+it was, when translated into English, ���I will show you how this
+nonsensical notion that there is a God grew up among men.��� My remark was
 strictly pious and proper; confessing the divine purpose even in its
 most seemingly dark or meaningless manifestations. In that hour I
 learned many things, including the fact that there is something purely
@@ -586,9 +572,9 @@ it is not, touching these primary things, a very practical word or a
 very profitable idea. Nobody can imagine how nothing could turn into
 something. Nobody can get an inch nearer to it by explaining how
 something could turn into something else. It is really far more logical
-to start by saying ‘In the beginning God created heaven and earth’ even
-if you only mean ‘In the beginning some unthinkable power began some
-unthinkable process.’ For God is by its nature a name of mystery, and
+to start by saying ���In the beginning God created heaven and earth��� even
+if you only mean ���In the beginning some unthinkable power began some
+unthinkable process.��� For God is by its nature a name of mystery, and
 nobody ever supposed that man could imagine how a world was created any
 more than he could create one. But evolution really is mistaken for
 explanation. It has the fatal quality of leaving on many minds the
@@ -677,8 +663,8 @@ so that we cannot see which of them really comes first. It illustrates,
 though only in one convenient illustration, all that I mean by the
 necessity of seeing the sharp differences that give its shape to
 history, instead of being submerged in all these generalisations about
-slowness and sameness. For we do indeed require, in Mr. Wells’s phrase,
-an outline of history. But we may venture to say, in Mr. Mantalini’s
+slowness and sameness. For we do indeed require, in Mr. Wells���s phrase,
+an outline of history. But we may venture to say, in Mr. Mantalini���s
 phrase, that this evolutionary history has no outline or is a demd
 outline. But, above all, it illustrates what I mean by saying that the
 more we really look at man as an animal, the less he will look like one.
@@ -690,7 +676,7 @@ private character. His psychology is seriously taken into account in
 psychological fiction and psychological medicine. So far as I can
 understand, his chief occupation in life was knocking his wife about, or
 treating women in general with what is, I believe, known in the world of
-the film as ‘rough stuff.’ I have never happened to come upon the
+the film as ���rough stuff.��� I have never happened to come upon the
 evidence for this idea; and I do not know on what primitive diaries or
 prehistoric divorce-reports it is founded. Nor, as I have explained
 elsewhere, have I ever been able to see the probability of it, even
@@ -726,7 +712,7 @@ cave and not the literary cave-man and his club. And it will be valuable
 to our sense of reality to consider quite simply what that real evidence
 is, and not to go beyond it. What was found in the cave was not the
 club, the horrible gory club notched with the number of women it had
-knocked on the head. The cave was not a Bluebeard’s Chamber filled with
+knocked on the head. The cave was not a Bluebeard���s Chamber filled with
 the skeletons of slaughtered wives; it was not filled with female skulls
 all arranged in rows and all cracked like eggs. It was something quite
 unconnected, one way or the other, with all the modern phrases and
@@ -773,7 +759,7 @@ the floor of the sea. This secret chamber of rock, when illuminated
 after its long night of unnumbered ages, revealed on its walls large and
 sprawling outlines diversified with coloured earths; and when they
 followed the lines of them they recognised, across that vast and void of
-ages, the movement and the gesture of a man’s hand. They were drawings
+ages, the movement and the gesture of a man���s hand. They were drawings
 or paintings of animals; and they were drawn or painted not only by a
 man but by an artist. Under whatever archaic limitations, they showed
 that love of the long sweeping or the long wavering line which any man
@@ -800,12 +786,12 @@ certainly not the ideal of an inhuman character, like the abstraction
 invoked in popular science. When novelists and educationists and
 psychologists of all sorts talk about the cave-man, they never conceive
 him in connection with anything that is really in the cave. When the
-realist of the sex novel writes, ‘Red sparks danced in Dagmar
-Doubledick’s brain; he felt the spirit of the cave-man rising within
-him,’ the novelist’s readers would be very much disappointed if Dagmar
+realist of the sex novel writes, ���Red sparks danced in Dagmar
+Doubledick���s brain; he felt the spirit of the cave-man rising within
+him,��� the novelist���s readers would be very much disappointed if Dagmar
 only went off and drew large pictures of cows on the drawing-room wall.
-When the psychoanalyst writes to a patient, ‘The submerged instincts of
-the cave-man are doubtless prompting you to gratify a violent impulse,’
+When the psychoanalyst writes to a patient, ���The submerged instincts of
+the cave-man are doubtless prompting you to gratify a violent impulse,���
 he does not refer to the impulse to paint in water-colours; or to make
 conscientious studies of how cattle swing their heads when they graze.
 Yet we do know for a fact that the cave-man did these mild and innocent
@@ -830,7 +816,7 @@ cavern; and is perhaps too big to be seen. If the boy was one of the
 flock of the priest, it may be presumed that he had been trained in a
 certain quality of common sense; that common sense that often comes to
 us in the form of tradition. In that case he would simply recognise the
-primitive man’s work as the work of a man, interesting but in no way
+primitive man���s work as the work of a man, interesting but in no way
 incredible in being primitive. He would see what was there to see; and
 he would not be tempted into seeing what was not there, by any
 evolutionary excitement or fashionable speculation. If he had heard of
@@ -840,7 +826,7 @@ may have had another side to his character besides that which he has
 alone left on record in his works of art. The primitive man may have
 taken a pleasure in beating women as well as in drawing animals; all we
 can say is that the drawings record the one but not the other. It may be
-true that when the cave-man’s finished jumping on his mother, or his
+true that when the cave-man���s finished jumping on his mother, or his
 wife as the case may be, he loves to hear the little brook a-gurgling,
 and also to watch the deer as they come down to drink at the brook.
 These things are not impossible, but they are irrelevant. The common
@@ -862,7 +848,7 @@ St. Francis of Assisi out of pure and saintly love of animals, there
 would be nothing in the cave to contradict it.
 
 Indeed I once knew a lady who half-humorously suggested that the cave
-was a crèche, in which the babies were put to be specially safe, and
+was a cr��che, in which the babies were put to be specially safe, and
 that coloured animals were drawn on the walls to amuse them; very much
 as diagrams of elephants and giraffes adorn a modern infant school. And
 though this was but a jest, it does draw attention to some of the other
@@ -1113,9 +1099,7 @@ another order, a man may be an ordinary thing.
 
 
 
-CHAPTER II
 
-PROFESSORS AND PREHISTORIC MEN
 
 
 Science is weak about these prehistoric things in a way that has hardly
@@ -1268,8 +1252,8 @@ It is necessary to say plainly that all this ignorance is simply covered
 by impudence. Statements are made so plainly and positively that men
 have hardly the moral courage to pause upon them and find that they are
 without support. The other day a scientific summary of the state of a
-prehistoric tribe began confidently with the words ‘They wore no
-clothes.’ Not one reader in a hundred probably stopped to ask himself
+prehistoric tribe began confidently with the words ���They wore no
+clothes.��� Not one reader in a hundred probably stopped to ask himself
 how we should come to know whether clothes had once been worn by people
 of whom everything has perished except a few chips of bone and stone. It
 was doubtless hoped that we should find a stone hat as well as a stone
@@ -1358,8 +1342,8 @@ interesting things from these cave-writings of the twentieth century. If
 I know anything about the breed, and if they have not fallen away from
 the full-blooded confidence of their fathers, they will be able to
 discover the most fascinating facts about us from the initials left in
-the Magic Grotto by ’Arry and ’Arriet, possibly in the form of two
-intertwined A’s. From this alone they will know (1) That as the letters
+the Magic Grotto by ���Arry and ���Arriet, possibly in the form of two
+intertwined A���s. From this alone they will know (1) That as the letters
 are rudely chipped with a blunt pocket-knife, the twentieth century
 possessed no delicate graving-tools and was unacquainted with the art of
 sculpture. (2) That as the letters are capital letters, our civilisation
@@ -1367,7 +1351,7 @@ never evolved any small letters or anything like a running hand. (3)
 That because initial consonants stand together in an unpronounceable
 fashion, our language was possibly akin to Welsh or more probably of the
 early Semitic type that ignored vowels. (4) That as the initials of
-’Arry and ’Arriet do not in any special fashion profess to be religious
+���Arry and ���Arriet do not in any special fashion profess to be religious
 symbols, our civilisation possessed no religion. Perhaps the last is
 about the nearest to the truth; for a civilisation that had religion
 would have a little more reason.
@@ -1396,7 +1380,7 @@ connection between corn and dreams and an old chief with a spear, unless
 there was already a common feeling to include them all. But if there was
 such a common feeling it could only be the religious feeling; and these
 things could not be the beginnings of a religious feeling that existed
-already. I think anybody’s common sense will tell him that it is far
+already. I think anybody���s common sense will tell him that it is far
 more likely that this sort of mystical sentiment did exist already; and
 that in the light of it dreams and kings and cornfields could appear
 mystical then, as they can appear mystical now.
@@ -1453,7 +1437,7 @@ at all. A cow in a field seems to derive no lyrical impulse or
 instruction from her unrivalled opportunities for listening to the
 skylark. And similarly there is no reason to suppose that live sheep
 will ever begin to use dead sheep as the basis of a system of elaborate
-ancestor-worship. It is true that in the spring a young quadruped’s
+ancestor-worship. It is true that in the spring a young quadruped���s
 fancy may lightly turn to thoughts of love, but no succession of springs
 has ever led it to turn however lightly to thoughts of literature. And
 in the same way, while it is true that a dog has dreams, while most
@@ -1666,9 +1650,7 @@ least different, except in being turned upside-down.
 
 
 
-CHAPTER III
 
-THE ANTIQUITY OF CIVILISATION
 
 
 The modern man looking at the most ancient origins has been like a man
@@ -1749,11 +1731,11 @@ be writing a history, and dreamed he was writing one of his own very
 wonderful and imaginative romances. At least I cannot imagine how he can
 possibly know that the prehistoric ruler was called the Old Man or that
 court etiquette requires it to be spelt with capital letters. He says of
-the same potentate, ‘No one was allowed to touch his spear or to sit in
-his seat.’ I have difficulty in believing that anybody has dug up a
-prehistoric spear with a prehistoric label, ‘Visitors are Requested not
-to Touch,’ or a complete throne with the inscription, ‘Reserved for the
-Old Man.’ But it may be presumed that the writer, who can hardly be
+the same potentate, ���No one was allowed to touch his spear or to sit in
+his seat.��� I have difficulty in believing that anybody has dug up a
+prehistoric spear with a prehistoric label, ���Visitors are Requested not
+to Touch,��� or a complete throne with the inscription, ���Reserved for the
+Old Man.��� But it may be presumed that the writer, who can hardly be
 supposed to be merely making up things out of his own head, was merely
 taking for granted this very dubious parallel between the prehistoric
 and the decivilised man. It may be that in certain savage tribes the
@@ -1812,7 +1794,7 @@ much camaraderie as rats or rooks. Leadership of some sort they
 doubtless had, as have the gregarious animals; but leadership implies no
 such irrational servility as that attributed to the superstitious
 subjects of the Old Man. There was doubtless somebody corresponding, to
-use Tennyson’s expression, to the many-wintered crow that leads the
+use Tennyson���s expression, to the many-wintered crow that leads the
 clanging rookery home. But I fancy that if that venerable fowl began to
 act after the fashion of some Sultans in ancient and decayed Asia, it
 would become a very clanging rookery and the many-wintered crow would
@@ -1981,7 +1963,7 @@ science of imagery. We have here therefore exactly that compromise of
 co-operation between free families or groups which is the most normal
 mode of life for humanity and is particularly apparent wherever men own
 their own land and live on it. With the very mention of the images of
-bird and beast the student of mythology will murmur the word ‘totem’
+bird and beast the student of mythology will murmur the word ���totem���
 almost in his sleep. But to my mind much of the trouble arises from his
 habit of saying such words as if in his sleep. Throughout this rough
 outline I have made a necessarily inadequate attempt to keep on the
@@ -2047,7 +2029,7 @@ territory, hit on the idea of sending it in picture-writing, like that
 of the Red Indian. Like most people who have written picture-writing for
 fun, he found the words did not always fit. But when the word for taxes
 sounded rather like the word for pig, he boldly put down a pig as a bad
-pun and chanced it. So a modern hieroglyphist might represent ‘at once’
+pun and chanced it. So a modern hieroglyphist might represent ���at once���
 by unscrupulously drawing a hat followed by a series of upright
 numerals. It was good enough for the Pharaohs and ought to be good
 enough for him. But it must have been great fun to write or even to read
@@ -2152,7 +2134,7 @@ almost think of the Nile as a serpent. Babylon was a civilisation of
 diagrams rather than of drawings. Mr. W. B. Yeats, who has a historical
 imagination to match his mythological imagination (and indeed the former
 is impossible without the latter), wrote truly of the men who watched
-the stars ‘from their pedantic Babylon.’ The cuneiform was cut upon
+the stars ���from their pedantic Babylon.��� The cuneiform was cut upon
 bricks, of which all their architecture was built up; the bricks were of
 baked mud, and perhaps the material had something in it forbidding the
 sense of form to develop in sculpture or relief. Theirs was a static but
@@ -2241,8 +2223,8 @@ insignificance of the individual before the State. It was as true of the
 most democratic City State in Hellas as of any despotism in Babylon. It
 is one of the signs of this spirit that a whole class of individuals
 could be insignificant or even invisible. It must be normal because it
-was needed for what would now be called ‘social service.’ Somebody said,
-‘The Man is nothing and the Work is all,’ meaning it for a breezy
+was needed for what would now be called ���social service.��� Somebody said,
+���The Man is nothing and the Work is all,��� meaning it for a breezy
 Carlylean commonplace. It was the sinister motto of the heathen Servile
 State. In that sense there is truth in the traditional vision of vast
 pillars and pyramids going up under those everlasting skies for ever, by
@@ -2266,7 +2248,7 @@ travellers from Herodotus to Lord Carnarvon follow this route.
 Scientific speculations of to-day do indeed spread out a map of the
 whole primitive world, with streams of racial emigration or admixture
 marked in dotted lines everywhere; over spaces which the unscientific
-medieval map-maker would have been content to call ‘terra incognita,’ if
+medieval map-maker would have been content to call ���terra incognita,��� if
 he did not fill the inviting blank with a picture of a dragon, to
 indicate the probable reception given to pilgrims. But these
 speculations are only speculations at the best; and at the worst the
@@ -2352,7 +2334,7 @@ its prehistory, has undergone many retrospective revolutions in the
 short period of my own lifetime. It used to be called the Caucasian
 race; and I read in childhood an account of its collision with the
 Mongolian race; it was written by Bret Harte and opened with the query,
-‘Or is the Caucasian played out?’ Apparently the Caucasian was played
+���Or is the Caucasian played out?��� Apparently the Caucasian was played
 out, for in a very short time he had been turned into the Indo-European
 man; sometimes, I regret to say, proudly presented as the Indo-Germanic
 man. It seems that the Hindu and the German have similar words for
@@ -2576,9 +2558,7 @@ Rome.
 
 
 
-CHAPTER IV
 
-GOD AND COMPARATIVE RELIGION
 
 
 I was once escorted over the Roman foundations of an ancient British
@@ -2588,17 +2568,17 @@ he maintained an iron gravity, and may or may not have realised that it
 was a joke against a great deal of what is called comparative religion.
 I pointed out a sculpture of the head of the sun with the usual halo of
 rays, but with the difference that the face in the disc, instead of
-being boyish like Apollo, was bearded like Neptune or Jupiter. ‘Yes,’ he
-said with a certain delicate exactitude, ‘that is supposed to represent
+being boyish like Apollo, was bearded like Neptune or Jupiter. ���Yes,��� he
+said with a certain delicate exactitude, ���that is supposed to represent
 the local god Sul. The best authorities identify Sul with Minerva; but
-this has been held to show that the identification is not complete.’
+this has been held to show that the identification is not complete.���
 
 That is what we call a powerful understatement. The modern world is
 madder than any satires on it; long ago Mr. Belloc made his burlesque
 don say that a bust of Ariadne had been proved by modern research to be
 a Silenus. But that is not better than the real appearance of Minerva as
 the Bearded Woman of Mr. Barnum. Only both of them are very like many
-identifications by ‘the best authorities’ on comparative religion; and
+identifications by ���the best authorities��� on comparative religion; and
 when Catholic creeds are identified with various wild myths, I do not
 laugh or curse or misbehave myself; I confine myself decorously to
 saying that the identification is not complete.
@@ -2638,8 +2618,8 @@ we might say with strict truth that the closer they are to us the
 farther they are away. An Ethical Hymn-book of this humanitarian sort of
 religion was carefully selected and expurgated on the principle of
 preserving anything human and eliminating anything divine. One
-consequence was that a hymn appeared in the amended form of ‘Nearer
-Mankind to Thee, Nearer to Thee.’ It always suggested to me the
+consequence was that a hymn appeared in the amended form of ���Nearer
+Mankind to Thee, Nearer to Thee.��� It always suggested to me the
 sensations of a strap-hanger during a crush on the Tube. But it is
 strange and wonderful how far away the souls of men can seem, when their
 bodies are so near as all that.
@@ -2676,7 +2656,7 @@ a matter of degree and distance and difference that it is only
 comparatively successful when it tries to compare. When we come to look
 at it closely we find it comparing things that are really quite
 incomparable. We are accustomed to see a table or catalogue of the
-world’s great religions in parallel columns, until we fancy they are
+world���s great religions in parallel columns, until we fancy they are
 really parallel. We are accustomed to see the names of the great
 religious founders all in a row: Christ; Mahomet; Buddha; Confucius. But
 in truth this is only a trick; another of these optical illusions by
@@ -2719,7 +2699,7 @@ different. He could remark on the wandering adventure of the English who
 had scattered their colonies over so many seas; and call _them_ nomads.
 It is quite true that a great many Englishmen seem to be strangely
 restless in England. It is quite true that not all of them have left
-their country for their country’s good. The moment we mention the
+their country for their country���s good. The moment we mention the
 wandering empire of the English, we must add the strange exiled empire
 of the Irish. For it is a curious fact, to be noted in our imperial
 literature, that the same ubiquity and unrest which is a proof of
@@ -2749,7 +2729,7 @@ rooted reality there is no such thing as a rooted reality in the world;
 or in other words, if he is a nomad there is nobody who is not a nomad.
 
 Now that is the sort of trick that has been tried in the case of
-comparative religion and the world’s religious founders all standing
+comparative religion and the world���s religious founders all standing
 respectably in a row. It seeks to classify Jesus as the other would
 classify Jews, by inventing a new class for the purpose and filling up
 the rest of it with stop-gaps and second-rate copies. I do not mean that
@@ -2810,7 +2790,7 @@ told him all their polytheistic tales, and telling them in return of the
 existence of the one good God who is a spirit and judges men by
 spiritual standards. And there was a sudden buzz of excitement among
 these stolid barbarians, as at somebody who was letting out a secret,
-and they cried to each other, ‘Atahocan! He is speaking of Atahocan!’
+and they cried to each other, ���Atahocan! He is speaking of Atahocan!���
 
 Probably it was a point of politeness and even decency among those
 polytheists not to speak of Atahocan. The name is not perhaps so much
@@ -2823,12 +2803,12 @@ Spiritualism. Anyhow, there are any number of similar examples. They all
 testify to the unmistakable psychology of a thing taken for granted, as
 distinct from a thing talked about. There is a striking example in a
 tale taken down word for word from a Red Indian in California, which
-starts out with hearty legendary and literary relish: ‘The sun is the
+starts out with hearty legendary and literary relish: ���The sun is the
 father and ruler of the heavens. He is the big chief. The moon is his
-wife and the stars are their children’; and so on through a most
+wife and the stars are their children���; and so on through a most
 ingenious and complicated story, in the middle of which is a sudden
-parenthesis saying that sun and moon have to do something because ‘It is
-ordered that way by the Great Spirit Who lives above the place of all.’
+parenthesis saying that sun and moon have to do something because ���It is
+ordered that way by the Great Spirit Who lives above the place of all.���
 That is exactly the attitude of most paganism towards God. He is
 something assumed and forgotten and remembered by accident; a habit
 possibly not peculiar to pagans. Sometimes the higher deity is
@@ -2879,8 +2859,8 @@ lived in his own little valley. Like many a small nation melting in a
 great empire, he gives up local universality only to come under
 universal limitation. The very name of Pan suggests that he became a god
 of the wood when he had been a god of the world. The very name of
-Jupiter is almost a pagan translation of the words ‘Our Father which art
-in heaven.’ As with the Great Father symbolised by the sky, so with the
+Jupiter is almost a pagan translation of the words ���Our Father which art
+in heaven.��� As with the Great Father symbolised by the sky, so with the
 Great Mother whom we still call Mother Earth. Demeter and Ceres and
 Cybele often seem to be almost incapable of taking over the whole
 business of godhood, so that men should need no other gods. It seems
@@ -2978,15 +2958,15 @@ ultimately related to something else, even when that Unknown God has
 faded into a Fate. Above all we feel it in those immortal moments when
 the pagan literature seems to return to a more innocent antiquity and
 speak with a more direct voice, so that no word is worthy of it except
-our own monotheistic monosyllable. We cannot say anything but ‘God’ in a
-sentence like that of Socrates bidding farewell to his judges: ‘I go to
+our own monotheistic monosyllable. We cannot say anything but ���God��� in a
+sentence like that of Socrates bidding farewell to his judges: ���I go to
 die and you remain to live; and God alone knows which of us goes the
-better way.’ We can use no other word even for the best moments of
-Marcus Aurelius: ‘Can they say dear city of Cecrops, and canst thou not
-say dear city of God?’ We can use no other word in that mighty line in
+better way.��� We can use no other word even for the best moments of
+Marcus Aurelius: ���Can they say dear city of Cecrops, and canst thou not
+say dear city of God?��� We can use no other word in that mighty line in
 which Virgil spoke to all who suffer with the veritable cry of a
-Christian before Christ, in the untranslatable: ‘O passi graviora dabit
-deus his quoque finem.’
+Christian before Christ, in the untranslatable: ���O passi graviora dabit
+deus his quoque finem.���
 
 In short, there is a feeling that there is something higher than the
 gods; but because it is higher it is also further away. Not yet could
@@ -3094,8 +3074,8 @@ point about the refusal of art is the first example of the limitations
 which are often adversely criticised, only because the critics
 themselves are limited. But an even stronger case can be found in the
 other criticism offered by the same critics. It is often said with a
-sneer that the God of Israel was only a God of Battles, ‘a mere barbaric
-Lord of Hosts’ pitted in rivalry against other gods only as their
+sneer that the God of Israel was only a God of Battles, ���a mere barbaric
+Lord of Hosts��� pitted in rivalry against other gods only as their
 envious foe. Well it is for the world that he was a God of Battles. Well
 it is for us that he was to all the rest only a rival and a foe. In the
 ordinary way, it would have been only too easy for them to have achieved
@@ -3130,7 +3110,7 @@ fetish; for he might have been as civilised as the gods of Tyre and
 Carthage. What that civilisation meant we shall consider more fully in
 the chapter that follows; when we note how the power of demons nearly
 destroyed Europe and even the heathen health of the world. But the
-world’s destiny would have been distorted still more fatally if
+world���s destiny would have been distorted still more fatally if
 monotheism had failed in the Mosaic tradition. I hope in a subsequent
 section to show that I am not without sympathy with all that health in
 the heathen world that made its fairy-tales and its fanciful romances
@@ -3167,8 +3147,8 @@ monotheistic and therefore more mystical. Indeed the Book of Job
 avowedly only answers mystery with mystery. Job is comforted with
 riddles; but he is comforted. Herein is indeed a type, in the sense of
 a prophecy, of things speaking with authority. For when he who doubts
-can only say, ‘I do not understand,’ it is true that he who knows can
-only reply or repeat, ‘You do not understand.’ And under that rebuke
+can only say, ���I do not understand,��� it is true that he who knows can
+only reply or repeat, ���You do not understand.��� And under that rebuke
 there is always a sudden hope in the heart; and the sense of something
 that would be worth understanding. But this mighty monotheistic poem
 remained unremarked by the whole world of antiquity, which was thronged
@@ -3226,14 +3206,12 @@ Brahma open like dawn upon the death of all.
 
 
 
-CHAPTER V
 
-MAN AND MYTHOLOGIES
 
 
 What are here called the Gods might almost alternatively be called the
 Day-Dreams. To compare them to dreams is not to deny that dreams can
-come true. To compare them to travellers’ tales is not to deny that they
+come true. To compare them to travellers��� tales is not to deny that they
 may be true tales, or at least truthful tales. In truth they are the
 sort of tales the traveller tells to himself. All this mythological
 business belongs to the poetical part of men. It seems strangely
@@ -3387,16 +3365,16 @@ Now we do not comprehend this process in ourselves, far less in our most
 remote fellow-creatures. And the danger of these things being classified
 is that they may seem to be comprehended. A really fine work of
 folk-lore, like _The Golden Bough_, will leave too many readers with the
-idea, for instance, that this or that story of a giant’s or wizard’s
-heart in a casket or a cave only ‘means’ some stupid and static
-superstition called ‘the external soul.’ But we do not know what these
+idea, for instance, that this or that story of a giant���s or wizard���s
+heart in a casket or a cave only ���means��� some stupid and static
+superstition called ���the external soul.��� But we do not know what these
 things mean, simply because we do not know what we ourselves mean when
-we are moved by them. Suppose somebody in a story says ‘Pluck this
-flower and a princess will die in a castle beyond the sea,’ we do not
+we are moved by them. Suppose somebody in a story says ���Pluck this
+flower and a princess will die in a castle beyond the sea,��� we do not
 know why something stirs in the subconsciousness, or why what is
-impossible seems also inevitable. Suppose we read ‘And in the hour when
+impossible seems also inevitable. Suppose we read ���And in the hour when
 the king extinguished the candle his ships were wrecked far away on the
-coast of the Hebrides.’ We do not know why the imagination has accepted
+coast of the Hebrides.��� We do not know why the imagination has accepted
 that image before the reason can reject it; or why such correspondences
 seem really to correspond to something in the soul. Very deep things in
 our nature, some dim sense of the dependence of great things upon small,
@@ -3412,17 +3390,17 @@ the Hebridean coast to the candle. Shelley compares the skylark to a
 young woman in a turret, to a rose embedded in thick foliage, to a
 series of things that seem to be about as unlike a skylark in the sky as
 anything we can imagine. I suppose the most potent piece of pure magic
-in English literature is the much-quoted passage in Keats’s
+in English literature is the much-quoted passage in Keats���s
 _Nightingale_ about the casements opening on the perilous foam. And
 nobody notices that the image seems to come from nowhere; that it
 appears abruptly after some almost equally irrelevant remarks about
 Ruth; and that it has nothing in the world to do with the subject of the
 poem. If there is one place in the world where nobody could reasonably
 expect to find a nightingale, it is on a window-sill at the seaside. But
-it is only in the same sense that nobody would expect to find a giant’s
+it is only in the same sense that nobody would expect to find a giant���s
 heart in a casket under the sea. Now, it would be very dangerous to
 classify the metaphors of the poets. When Shelley says that the cloud
-will rise ‘like a child from the womb, like a ghost from the tomb,’ it
+will rise ���like a child from the womb, like a ghost from the tomb,��� it
 would be quite possible to call the first a case of the coarse primitive
 birth-myth and the second a survival of the ghost-worship which became
 ancestor-worship. But it is the wrong way of dealing with a cloud; and
@@ -3474,14 +3452,14 @@ not really much more serious for being taken seriously. They have the
 sort of sincerity that they always had; the sincerity of art as a symbol
 that expresses very real spiritualities under the surface of life. But
 they are only sincere in the same sense as art; not sincere in the same
-sense as morality. The eccentric’s collection of orange-peel may turn to
+sense as morality. The eccentric���s collection of orange-peel may turn to
 oranges in a Mediterranean festival or to golden apples in a
 Mediterranean myth. But they are never on the same plane with the
 difference between giving the orange to a blind beggar and carefully
 placing the orange-peel so that the beggar may fall and break his leg.
 Between these two things there is a difference of kind and not of
 degree. The child does not think it wrong to step on the paving-stone as
-he thinks it wrong to step on the dog’s tail. And it is very certain
+he thinks it wrong to step on the dog���s tail. And it is very certain
 that whatever jest or sentiment or fancy first set Johnson touching the
 wooden posts, he never touched wood with any of the feeling with which
 he stretched out his hands to the timber of that terrible tree, which
@@ -3532,14 +3510,14 @@ that Christianity or even Islam is a religion. They satisfy some of the
 needs satisfied by a religion; and notably the need for doing certain
 things at certain dates; the need of the twin ideas of festivity and
 formality. But though they provide a man with a calendar, they do not
-provide him with a creed. A man did not stand up and say ‘I believe in
-Jupiter and Juno and Neptune,’ etc., as he stands up and says ‘I believe
-in God the Father Almighty’ and the rest of the Apostles’ Creed. Many
+provide him with a creed. A man did not stand up and say ���I believe in
+Jupiter and Juno and Neptune,��� etc., as he stands up and says ���I believe
+in God the Father Almighty��� and the rest of the Apostles��� Creed. Many
 believed in some and not in others, or more in some and less in others,
 or only in a very vague poetical sense in any. There was no moment when
 they were all collected into an orthodox order which men would fight and
 be tortured to keep intact. Still less did anybody ever say in that
-fashion: ‘I believe in Odin and Thor and Freya,’ for outside Olympus
+fashion: ���I believe in Odin and Thor and Freya,��� for outside Olympus
 even the Olympian order grows cloudy and chaotic. It seems clear to me
 that Thor was not a god at all but a hero. Nothing resembling a religion
 would picture anybody resembling a god as groping like a pigmy in a
@@ -3610,7 +3588,7 @@ every kind of cracked mirror of mad art that seemed to deform the world
 and displace the sky, it remained true to something about which there
 can be no argument; something that makes it possible for some artist of
 some school to stand suddenly still before that particular deformity and
-say, ‘My dream has come true.’ Therefore do we all in fact feel that
+say, ���My dream has come true.��� Therefore do we all in fact feel that
 pagan or primitive myths are infinitely suggestive, so long as we are
 wise enough not to inquire what they suggest. Therefore we all feel what
 is meant by Prometheus stealing fire from heaven, until some prig of a
@@ -3726,7 +3704,7 @@ god might satisfy men; but they do not profess to be satisfied. Any one
 who says they do is a bad judge of poetry.
 
 Those who talk about Pagan Christs have less sympathy with Paganism than
-with Christianity. Those who call these cults ‘religions,’ and ‘compare’
+with Christianity. Those who call these cults ���religions,��� and ���compare���
 them with the certitude and challenge of the Church have much less
 appreciation than we have of what made heathenism human, or of why
 classic literature is still something that hangs in the air like a song.
@@ -3737,7 +3715,7 @@ argue that these images in the mind, admired entirely in the abstract,
 were even in the same world with a living man and a living polity that
 were worshipped because they were concrete. We might as well say that a
 boy playing at robbers is the same as a man in his first day in the
-trenches; or that a boy’s first fancies about ‘the not impossible she’
+trenches; or that a boy���s first fancies about ���the not impossible she���
 are the same as the sacrament of marriage. They are fundamentally
 different exactly where they are superficially similar; we might almost
 say they are not the same even when they are the same. They are only
@@ -3755,15 +3733,13 @@ than they into the Eleusinian Mysteries and have passed a higher grade,
 where gate within gate guarded the wisdom of Orpheus. We know the
 meaning of all the myths. We know the last secret revealed to the
 perfect initiate. And it is not the voice of a priest or a prophet
-saying, ‘These things are.’ It is the voice of a dreamer and an idealist
-crying, ‘Why cannot these things be?’
+saying, ���These things are.��� It is the voice of a dreamer and an idealist
+crying, ���Why cannot these things be?���
 
 
 
 
-CHAPTER VI
 
-THE DEMONS AND THE PHILOSOPHERS
 
 
 I have dwelt at some little length on this imaginative sort of paganism,
@@ -3879,7 +3855,7 @@ of. It is felt that the extreme of evil will extort a sort of attention
 or answer from the evil powers under the surface of the world. This is
 the meaning of most of the cannibalism in the world. For most
 cannibalism is not a primitive or even a bestial habit. It is
-artificial and even artistic; a sort of art for art’s sake. Men do not
+artificial and even artistic; a sort of art for art���s sake. Men do not
 do it because they do not think it horrible; but, on the contrary,
 because they do think it horrible. They wish, in the most literal sense,
 to sup on horrors. That is why it is often found that rude races like
@@ -3914,11 +3890,11 @@ own civilisation) have a curious habit of not merely doing their
 legitimate duty in condemning its crimes, but of going out of their way
 to idealise its victims. They always assume that before the advent of
 Europe there was nothing anywhere but Eden. And Swinburne, in that
-spirited chorus of the nations in ‘Songs before Sunrise,’ used an
+spirited chorus of the nations in ���Songs before Sunrise,��� used an
 expression about Spain in her South American conquests which always
-struck me as very strange. He said something about ‘her sins and sons
-through sinless lands dispersed,’ and how they ‘made accursed the name
-of man and thrice accursed the name of God.’ It may be reasonable enough
+struck me as very strange. He said something about ���her sins and sons
+through sinless lands dispersed,��� and how they ���made accursed the name
+of man and thrice accursed the name of God.��� It may be reasonable enough
 that he should say the Spaniards were sinful, but why in the world
 should he say that the South Americans were sinless? Why should he have
 supposed that continent to be exclusively populated by archangels or
@@ -3961,7 +3937,7 @@ and Mexico; but I may remark in passing that it resembles exactly the
 question that must in some sense be raised afterwards about Rome and
 Carthage. In both cases there has been a queer habit among the English
 of always siding against the Europeans, and representing the rival
-civilisation, in Swinburne’s phrase, as sinless; when its sins were
+civilisation, in Swinburne���s phrase, as sinless; when its sins were
 obviously crying or rather screaming to heaven. For Carthage also was a
 high civilisation, indeed a much more highly civilised civilisation. And
 Carthage also founded that civilisation on a religion of fear, sending
@@ -4207,7 +4183,7 @@ the truth in his idea. But he will also see that the ancestor-worship
 and the reverence for the Sacred Emperor were habits and not creeds. It
 is unfair to the great Confucius to say he was a religious founder. It
 is even unfair to him to say he was not a religious founder. It is as
-unfair as going out of one’s way to say that Jeremy Bentham was not a
+unfair as going out of one���s way to say that Jeremy Bentham was not a
 Christian martyr.
 
 But there is a class of most interesting cases in which philosophers
@@ -4224,7 +4200,7 @@ a bitter critic of democracy. He had about him an air of aristocratic
 and humane leisure; and his part was most easily played by men who
 happened to be in such a position. It was very easy and natural for a
 prince or a prominent person to play at being as philosophical as
-Hamlet, or Theseus in the _Midsummer Night’s Dream_. And from very early
+Hamlet, or Theseus in the _Midsummer Night���s Dream_. And from very early
 ages we find ourselves in the presence of these princely intellectuals.
 In fact, we find one of them in the very first recorded ages of the
 world; sitting on that primeval throne that looked over ancient Egypt.
@@ -4238,13 +4214,13 @@ in many ways the model of this sort of monarch and sage. Marcus Aurelius
 has been blamed for tolerating the pagan amphitheatre or the Christian
 martyrdoms. But it was characteristic; for this sort of man really
 thought of popular religion just as he thought of popular circuses. Of
-him Professor Phillimore has profoundly said ‘a great and good man--and
-he knew it.’ The Heretic Pharaoh had a philosophy more earnest and
+him Professor Phillimore has profoundly said ���a great and good man--and
+he knew it.��� The Heretic Pharaoh had a philosophy more earnest and
 perhaps more humble. For there is a corollary to the conception of being
 too proud to fight. It is that the humble have to do most of the
 fighting. Anyhow, the Egyptian prince was simple enough to take his own
 philosophy seriously, and alone among such intellectual princes he
-affected a sort of _coup d’état_; hurling down the high gods of Egypt
+affected a sort of _coup d�����tat_; hurling down the high gods of Egypt
 with one imperial gesture and lifting up for all men, like a blazing
 mirror of monotheistic truth, the disc of the universal sun. He had
 other interesting ideas often to be found in such idealists. In the
@@ -4311,7 +4287,7 @@ that Christendom is more progressive, in a sense that has very little to
 do with the rather provincial notion of an endless fuss of political
 improvement. Christendom does believe, for Christianity does believe,
 that man can eventually get somewhere, here or hereafter, or in various
-ways according to various doctrines. The world’s desire can somehow be
+ways according to various doctrines. The world���s desire can somehow be
 satisfied as desires are satisfied, whether by a new life or an old love
 or some form of positive possession and fulfilment. For the rest, we all
 know there is a rhythm and not a mere progress in things, that things
@@ -4400,8 +4376,8 @@ to us it is indistinguishable from despair. I do not see, for instance,
 why the disappointment of desire should not apply as much to the most
 benevolent desires as to the most selfish ones. Indeed the Lord of
 Compassion seems to pity people for living rather than for dying. For
-the rest, an intelligent Buddhist wrote, ‘The explanation of popular
-Chinese and Japanese Buddhism is that it is not Buddhism.’ _That_ has
+the rest, an intelligent Buddhist wrote, ���The explanation of popular
+Chinese and Japanese Buddhism is that it is not Buddhism.��� _That_ has
 doubtless ceased to be a mere philosophy, but only by becoming a mere
 mythology. One thing is certain: it has never become anything remotely
 resembling what we call a Church.
@@ -4442,7 +4418,7 @@ their way into the infinities of the four winds of heaven, their tracks
 making a vast cross upon the sky; for compared with the freedom of that
 flight of birds, the very shape of the Swastika is like a kitten chasing
 its tail. In a more popular allegory, we might say that when St. George
-thrust his spear into the monster’s jaws, he broke in upon the solitude
+thrust his spear into the monster���s jaws, he broke in upon the solitude
 of the self-devouring serpent and gave it something to bite besides its
 own tail. But while many fancies might be used as figures of the truth,
 the truth itself is abstract and absolute; though it is not very easy to
@@ -4504,9 +4480,7 @@ the ages to trace the lines of a form--and of a Face.
 
 
 
-CHAPTER VII
 
-THE WAR OF THE GODS AND DEMONS
 
 
 The materialist theory of history, that all politics and ethics are the
@@ -4589,8 +4563,8 @@ defined or deduced merely from official forms or political
 pronouncements. I have already touched on it in such a case as the totem
 or indeed any other popular myth. It is not enough to be told that a
 tom-cat was called a totem; especially when it was not called a totem.
-We want to know what it felt like. Was it like Whittington’s cat or like
-a witch’s cat? Was its real name Pasht or Puss-In-Boots? That is the
+We want to know what it felt like. Was it like Whittington���s cat or like
+a witch���s cat? Was its real name Pasht or Puss-In-Boots? That is the
 sort of thing we need touching the nature of political and social
 relations. We want to know the real sentiment that was the social bond
 of many common men, as sane and as selfish as we are. What did soldiers
@@ -4634,13 +4608,13 @@ man will die for pay. Nero could not hire a hundred Christians to be
 eaten by lions at a shilling an hour; for men will not be martyred for
 money. But the vision called up by real politik, or realistic politics,
 is beyond example crazy and incredible. Does anybody in the world
-believe that a soldier says, ‘My leg is nearly dropping off, but I shall
+believe that a soldier says, ���My leg is nearly dropping off, but I shall
 go on till it drops; for after all I shall enjoy all the advantages of
-my government obtaining a warm-water port in the Gulf of Finland.’ Can
-anybody suppose that a clerk turned conscript says, ‘If I am gassed I
+my government obtaining a warm-water port in the Gulf of Finland.��� Can
+anybody suppose that a clerk turned conscript says, ���If I am gassed I
 shall probably die in torments; but it is a comfort to reflect that
 should I ever decide to become a pearl-diver in the South Seas, that
-career is now open to me and my countrymen.’ Materialist history is the
+career is now open to me and my countrymen.��� Materialist history is the
 most madly incredible of all histories, or even of all romances.
 Whatever starts wars, the thing that sustains wars is something in the
 soul; that is something akin to religion. It is what men feel about life
@@ -4674,7 +4648,7 @@ War, suffering either in their bodies or in their souls for those they
 loved, they were long past caring about details of diplomatic objects as
 motives for their refusal to surrender. Of myself and those I knew best
 I can answer for the vision that made surrender impossible. It was the
-vision of the German Emperor’s face as he rode into Paris. This is not
+vision of the German Emperor���s face as he rode into Paris. This is not
 the sentiment which some of my idealistic friends describe as Love. I am
 quite content to call it hatred; the hatred of hell and all its works,
 and to agree that as they do not believe in hell they need not believe
@@ -4683,7 +4657,7 @@ introduction has been unfortunately necessary, to ensure an
 understanding of what is meant by a religious war. There is a religious
 war when two worlds meet; that is, when two visions of the world meet;
 or in more modern language, when two moral atmospheres meet. What is the
-one man’s breath is the other man’s poison; and it is vain to talk of
+one man���s breath is the other man���s poison; and it is vain to talk of
 giving a pestilence a place in the sun. And this is what we must
 understand, even at the expense of digression, if we would see what
 really happened in the Mediterranean; when right athwart the rising of
@@ -4800,7 +4774,7 @@ together to invoke the blessing of heaven on their empire by throwing
 hundreds of their infants into a large furnace. We can only realise the
 combination by imagining a number of Manchester merchants with
 chimney-pot hats and mutton-chop whiskers, going to church every Sunday
-at eleven o’clock to see a baby roasted.
+at eleven o���clock to see a baby roasted.
 
 The first stages of the political or commercial quarrel can be followed
 in far too much detail, precisely because it is merely political or
@@ -4826,7 +4800,7 @@ Carthage was an aristocracy, as are most of such mercantile states. The
 pressure of the rich on the poor was impersonal as well as irresistible.
 For such aristocracies never permit personal government, which is
 perhaps why this one was jealous of personal talent. But genius can turn
-up anywhere, even in a governing class. As if to make the world’s
+up anywhere, even in a governing class. As if to make the world���s
 supreme test as terrible as possible, it was ordained that one of the
 great houses of Carthage should produce a man who came out of those
 gilded palaces with all the energy and originality of Napoleon coming
@@ -4901,8 +4875,8 @@ had now come for peace; and still more for economy. The messages sent by
 Hannibal from time to time asking for reinforcements were a ridiculous
 anachronism; there were much more important things to attend to now. It
 might be true that some consul or other had made a last dash to the
-Metaurus, had killed Hannibal’s brother and flung his head, with Latin
-fury, into Hannibal’s camp; and mad actions of that sort showed how
+Metaurus, had killed Hannibal���s brother and flung his head, with Latin
+fury, into Hannibal���s camp; and mad actions of that sort showed how
 utterly hopeless the Latins felt about their cause. But even excitable
 Latins could not be so mad as to cling to a lost cause for ever. So
 argued the best financial experts; and tossed aside more and more
@@ -5003,9 +4977,7 @@ Carthago._
 
 
 
-CHAPTER VIII
 
-THE END OF THE WORLD
 
 
 I was once sitting on a summer day in a meadow in Kent under the shadow
@@ -5019,7 +4991,7 @@ thought. My companion was the most amusing of them, for however he may
 have stood towards thought, he was at least very much their superior in
 experience, having travelled beyond the tropics while they were
 meditating in the suburbs; though he had been charged with excess in
-telling travellers’ tales. In spite of anything said against him, I
+telling travellers��� tales. In spite of anything said against him, I
 preferred him to his companions and willingly went with him through the
 wood; where I could not but feel that his sunburnt face and fierce
 tufted eyebrows and pointed beard gave him something of the look of Pan.
@@ -5028,18 +5000,18 @@ spire of the village church; while the warm afternoon began to mellow
 into early evening and the song of a speck of a bird was faint far up in
 the sky and no more than a whisper of breeze soothed rather than stirred
 the ancient orchards of the garden of England. Then my companion said to
-me: ‘Do you know why the spire of that church goes up like that?’ I
+me: ���Do you know why the spire of that church goes up like that?��� I
 expressed a respectable agnosticism, and he answered in an off-hand
-way, ‘Oh, the same as the obelisks; the phallic worship of antiquity.’
+way, ���Oh, the same as the obelisks; the phallic worship of antiquity.���
 Then I looked across at him suddenly as he lay there leering above his
 goatlike beard; and for the moment I thought he was not Pan but the
 Devil. No mortal words can express the immense, the insane incongruity
 and unnatural perversion of thought involved in saying such a thing at
 such a moment and in such a place. For one moment I was in the mood in
 which men burned witches; and then a sense of absurdity equally enormous
-seemed to open about me like a dawn. ‘Why, of course,’ I said after a
-moment’s reflection, ‘if it hadn’t been for phallic worship, they would
-have built the spire pointing downwards and standing on its own apex.’ I
+seemed to open about me like a dawn. ���Why, of course,��� I said after a
+moment���s reflection, ���if it hadn���t been for phallic worship, they would
+have built the spire pointing downwards and standing on its own apex.��� I
 could have sat in that field and laughed for an hour. My friend did not
 seem offended, for indeed he was never thin-skinned about his scientific
 discoveries. I had only met him by chance and I never met him again, and
@@ -5250,8 +5222,8 @@ sort of yearning for that sort of complexity. The key to the mystery of
 the Merry Peasant is that the peasant often is merry. Those who do not
 believe it are simply those who do not know anything about him, and
 therefore do not know which are his times for merriment. Those who do
-not believe in the shepherd’s feast or song are merely ignorant of the
-shepherd’s calendar. The real shepherd is indeed very different from the
+not believe in the shepherd���s feast or song are merely ignorant of the
+shepherd���s calendar. The real shepherd is indeed very different from the
 ideal shepherd, but that is no reason for forgetting the reality at the
 root of the ideal. It needs a truth to make a tradition. It needs a
 tradition to make a convention. Pastoral poetry is certainly often a
@@ -5274,8 +5246,8 @@ religion had been largely responsible for the rustic happiness. Only as
 the whole society grew in age and experience, there began to appear that
 weakness in all mythology already noted in the chapter under that name.
 This religion was not quite a religion. In other words, this religion
-was not quite a reality. It was the young world’s riot with images and
-ideas like a young man’s riot with wine or love-making; it was not so
+was not quite a reality. It was the young world���s riot with images and
+ideas like a young man���s riot with wine or love-making; it was not so
 much immoral as irresponsible; it had no foresight of the final test of
 time. Because it was creative to any extent it was credulous to any
 extent. It belonged to the artistic side of man, yet even considered
@@ -5297,7 +5269,7 @@ oriental vices, hints of the old horrors of the Semitic demons, began to
 fill the fancies of decaying Rome, swarming like flies on a dung-heap.
 The psychology of it is really human enough, to any one who will try
 that experiment of seeing history from the inside. There comes an hour
-in the afternoon when the child is tired of ‘pretending’; when he is
+in the afternoon when the child is tired of ���pretending���; when he is
 weary of being a robber or a Red Indian. It is then that he torments the
 cat. There comes a time in the routine of an ordered civilisation when
 the man is tired of playing at mythology and pretending that a tree is a
@@ -5411,7 +5383,7 @@ first; that which had been in a sense forgotten because it was the
 first. I mean the primary and overpowering yet impalpable impression
 that the universe after all has one origin and one aim; and because it
 has an aim must have an author. What became of this great truth in the
-background of men’s minds, at this time, it is perhaps more difficult to
+background of men���s minds, at this time, it is perhaps more difficult to
 determine. Some of the Stoics undoubtedly saw it more and more clearly
 as the clouds of mythology cleared and thinned away; and great men among
 them did much even to the last to lay the foundations of a concept of
@@ -5425,7 +5397,7 @@ atheism is abnormality. It is not merely the denial of a dogma. It is
 the reversal of a subconscious assumption in the soul; the sense that
 there is a meaning and a direction in the world it sees. Lucretius, the
 first evolutionist who endeavoured to substitute Evolution for God, had
-already dangled before men’s eyes his dance of glittering atoms, by
+already dangled before men���s eyes his dance of glittering atoms, by
 which he conceived cosmos as created by chaos. But it was not his strong
 poetry or his sad philosophy, as I fancy, that made it possible for men
 to entertain such a vision. It was something in the sense of impotence
@@ -5476,7 +5448,7 @@ part of their little system; and about what they said, however mildly,
 there was a ring like iron. Men used to many mythologies and moralities
 could make no analysis of the mystery, except the curious conjecture
 that they meant what they said. All attempts to make them see reason in
-the perfectly simple matter of the Emperor’s statue seemed to be spoken
+the perfectly simple matter of the Emperor���s statue seemed to be spoken
 to deaf men. It was as if a new meteoric metal had fallen on the earth;
 it was a difference of substance to the touch. Those who touched their
 foundation fancied they had struck a rock.
@@ -5508,16 +5480,12 @@ more inexplicable; the halo of hatred around the Church of God.
 
 
 
-PART II
-
-ON THE MAN CALLED CHRIST
 
 
 
 
-CHAPTER I
 
-THE GOD IN THE CAVE
+
 
 
 This sketch of the human story began in a cave; the cave which popular
@@ -5560,7 +5528,7 @@ of whom I speak is generally much impressed with the importance of
 education in life and the importance of psychology in education. That
 sort of man is never tired of telling us that first impressions fix
 character by the law of causation; and he will become quite nervous if a
-child’s visual sense is poisoned by the wrong colours on a golliwog or
+child���s visual sense is poisoned by the wrong colours on a golliwog or
 his nervous system prematurely shaken by a cacophonous rattle. Yet he
 will think us very narrow-minded if we say that this is exactly why
 there really is a difference between being brought up as a Christian and
@@ -5626,7 +5594,7 @@ whole universe had been turned inside out. I mean that all the eyes of
 wonder and worship which had been turned outwards to the largest thing
 were now turned inward to the smallest. The very image will suggest all
 that multitudinous marvel of converging eyes that makes so much of the
-coloured Catholic imagery like a peacock’s tail. But it is true in a
+coloured Catholic imagery like a peacock���s tail. But it is true in a
 sense that God who had been only a circumference was seen as a centre;
 and a centre is infinitely small. It is true that the spiritual spiral
 henceforward works inwards instead of outwards, and in that sense is
@@ -5692,7 +5660,7 @@ people bearing that legal title until the Church was strong enough to
 weed them out, but there could be no more of the pagan repose in the
 mere advantage to the state of keeping it a servile state. Individuals
 became important, in a sense in which no instruments can be important.
-A man could not be a means to an end, at any rate to any other man’s
+A man could not be a means to an end, at any rate to any other man���s
 end. All this popular and fraternal element in the story has been
 rightly attached by tradition to the episode of the Shepherds; the hinds
 who found themselves talking face to face with the princes of heaven.
@@ -5774,8 +5742,8 @@ be justified in rejoicing that the event had fulfilled not merely the
 mysticism but the materialism of mythology. Mythology had many sins; but
 it had not been wrong in being as carnal as the Incarnation. With
 something of the ancient voice that was supposed to have rung through
-the groves, it could cry again, ‘We have seen, he hath seen us, a
-visible god.’ So the ancient shepherds might have danced, and their feet
+the groves, it could cry again, ���We have seen, he hath seen us, a
+visible god.��� So the ancient shepherds might have danced, and their feet
 have been beautiful upon the mountains, rejoicing over the philosophers.
 But the philosophers had also heard.
 
@@ -5849,7 +5817,7 @@ spent their lives in preaching peace and preventing wars. It is the same
 with all the modern attempts at Syncretism. They are never able to make
 something larger than the Creed without leaving something out. I do not
 mean leaving out something divine but something human; the flag or the
-inn or the boy’s tale of battle or the hedge at the end of the field.
+inn or the boy���s tale of battle or the hedge at the end of the field.
 The Theosophists build a pantheon; but it is only a pantheon for
 pantheists. They call a Parliament of Religions as a reunion of all the
 peoples; but it is only a reunion of all the prigs. Yet exactly such a
@@ -5948,7 +5916,7 @@ of that one hour in the Judean hills nearly two thousand years ago. But
 the savour is still unmistakable, and it is something too subtle or too
 solitary to be covered by our use of the word peace. By the very nature
 of the story the rejoicings in the cavern were rejoicings in a fortress
-or an outlaw’s den; properly understood it is not unduly flippant to say
+or an outlaw���s den; properly understood it is not unduly flippant to say
 they were rejoicings in a dug-out. It is not only true that such a
 subterranean chamber was a hiding-place from enemies; and that the
 enemies were already scouring the stony plain that lay above it like a
@@ -6104,9 +6072,7 @@ upon fold over something more human than humanity.
 
 
 
-CHAPTER II
 
-THE RIDDLES OF THE GOSPEL
 
 
 To understand the nature of this chapter, it is necessary to recur to
@@ -6169,8 +6135,8 @@ for the mass of mankind the main thing is to carry the conviction of the
 incredible compassion of God. But nobody with his eyes open can doubt
 that it is chiefly this idea of compassion that the popular machinery of
 the Church does seek to carry. The popular imagery carries a great deal
-to excess the sentiment of ‘Gentle Jesus, meek and mild.’ It is the
-first thing that the outsider feels and criticises in a Pietà or a
+to excess the sentiment of ���Gentle Jesus, meek and mild.��� It is the
+first thing that the outsider feels and criticises in a Piet�� or a
 shrine of the Sacred Heart. As I say, while the art may be insufficient,
 I am not sure that the instinct is unsound. In any case there is
 something appalling, something that makes the blood run cold, in the
@@ -6195,14 +6161,14 @@ replies. The outbreaks of wrath, like storms above our atmosphere, do
 not seem to break out exactly where we should expect them, but to follow
 some higher weather-chart of their own. The Peter whom popular Church
 teaching presents is very rightly the Peter to whom Christ said in
-forgiveness, ‘Feed my lambs.’ He is not the Peter upon whom Christ
-turned as if he were the devil, crying in that obscure wrath, ‘Get thee
-behind me, Satan.’ Christ lamented with nothing but love and pity over
+forgiveness, ���Feed my lambs.��� He is not the Peter upon whom Christ
+turned as if he were the devil, crying in that obscure wrath, ���Get thee
+behind me, Satan.��� Christ lamented with nothing but love and pity over
 Jerusalem which was to murder him. We do not know what strange spiritual
 atmosphere or spiritual insight led him to sink Bethsaida lower in the
 pit than Sodom. I am putting aside for the moment all questions of
 doctrinal inferences or expositions, orthodox or otherwise; I am simply
-imagining the effect on a man’s mind if he did really do what these
+imagining the effect on a man���s mind if he did really do what these
 critics are always talking about doing; if he did really read the New
 Testament without reference to orthodoxy and even without reference to
 doctrine. He would find a number of things which fit in far less with
@@ -6213,7 +6179,7 @@ the supernatural. If there is one aspect of the New Testament Jesus in
 which he may be said to present himself eminently as a practical person,
 it is in the aspect of an exorcist. There is nothing meek and mild,
 there is nothing even in the ordinary sense mystical, about the tone of
-the voice that says ‘Hold thy peace and come out of him.’ It is much
+the voice that says ���Hold thy peace and come out of him.��� It is much
 more like the tone of a very business-like lion-tamer or a strong-minded
 doctor dealing with a homicidal maniac. But this is only a side issue
 for the sake of illustration; I am not now raising these controversies;
@@ -6299,7 +6265,7 @@ of all that obvious rhetoric against war which has filled countless
 books and odes and orations; not a word about the wickedness of war, the
 wastefulness of war, the appalling scale of the slaughter in war and all
 the rest of the familiar frenzy; indeed not a word about war at all.
-There is nothing that throws any particular light on Christ’s attitude
+There is nothing that throws any particular light on Christ���s attitude
 towards organised warfare, except that he seems to have been rather fond
 of Roman soldiers. Indeed it is another perplexity, speaking from the
 same external and human standpoint, that he seems to have got on much
@@ -6438,8 +6404,8 @@ everything was ephemeral, including the things that Aristotle thought
 eternal. By that time the Roman Empire had come to be merely the _orbis
 terrarum_, another name for the world. But he never made his morality
 dependent on the existence of the Roman Empire or even on the existence
-of the world. ‘Heaven and earth shall pass away; but my words shall not
-pass away.’
+of the world. ���Heaven and earth shall pass away; but my words shall not
+pass away.���
 
 The truth is that when critics have spoken of the local limitations of
 the Galilean, it has always been a case of the local limitations of the
@@ -6508,7 +6474,7 @@ scare by announcing the exact date of the crack of doom. Among other
 variants on the same theme was the theory that he was a spiritual healer
 and nothing else; a view implied by Christian Science, which has really
 to expound a Christianity without the Crucifixion in order to explain
-the curing of Peter’s wife’s mother or the daughter of a centurion.
+the curing of Peter���s wife���s mother or the daughter of a centurion.
 There is another theory that concentrates entirely on the business of
 diabolism and what it would call the contemporary superstition about
 demoniacs; as if Christ, like a young deacon taking his first orders,
@@ -6545,16 +6511,14 @@ to stand stupidly debating fine shades of pantheism in the presence of
 so catastrophic a claim. There is more of the wisdom that is one with
 surprise in any simple person, full of the sensitiveness of simplicity,
 who should expect the grass to wither and the birds to drop dead out of
-the air, when a strolling carpenter’s apprentice said calmly and almost
-carelessly, like one looking over his shoulder: ‘Before Abraham was, I
-am.’
+the air, when a strolling carpenter���s apprentice said calmly and almost
+carelessly, like one looking over his shoulder: ���Before Abraham was, I
+am.���
 
 
 
 
-CHAPTER III
 
-THE STRANGEST STORY IN THE WORLD
 
 
 In the last chapter I have deliberately stressed what seems to be
@@ -6562,7 +6526,7 @@ nowadays a neglected side of the New Testament story, but nobody will
 suppose, I imagine, that it is meant to obscure that side that may truly
 be called human. That Christ was and is the most merciful of judges and
 the most sympathetic of friends is a fact of considerably more
-importance in our own private lives than in anybody’s historical
+importance in our own private lives than in anybody���s historical
 speculations. But the purpose of this book is to point out that
 something unique has been swamped in cheap generalisations; and for that
 purpose it is relevant to insist that even what was most universal was
@@ -6574,19 +6538,19 @@ that sense understood. If we wanted an example of the originality of the
 Gospel, we could hardly take a stronger or more startling one. Nearly
 two thousand years afterwards we happen to find ourselves in a mood that
 does really feel the mystical charm of the child; we express it in
-romances and regrets about childhood, in _Peter Pan_ or _The Child’s
+romances and regrets about childhood, in _Peter Pan_ or _The Child���s
 Garden of Verses_. And we can say of the words of Christ with so angry
 an anti-Christian as Swinburne:--
 
-    ‘No sign that ever was given
+    ���No sign that ever was given
        To faithful or faithless eyes
      Showed ever beyond clouds riven
        So clear a paradise.
 
-     Earth’s creeds may be seventy times seven
+     Earth���s creeds may be seventy times seven
        And blood have defiled each creed,
      But if such be the kingdom of heaven
-       It must be heaven indeed.’
+       It must be heaven indeed.���
 
 But that paradise was not clear until Christianity had gradually cleared
 it. The pagan world, as such, would not have understood any such thing
@@ -6623,9 +6587,9 @@ seems first to take one small flower in his hand and note its simplicity
 and even its impotence; then suddenly expands it in flamboyant colours
 into all the palaces and pavilions full of a great name in national
 legend and national glory; and then, by yet a third overturn, shrivels
-it to nothing once more with a gesture as if flinging it away ’... and
+it to nothing once more with a gesture as if flinging it away ���... and
 if God so clothes the grass that to-day is and to-morrow is cast into
-the oven--how much more....’ It is like the building of a good Babel
+the oven--how much more....��� It is like the building of a good Babel
 tower by white magic in a moment and in the movement of a hand; a tower
 heaved suddenly up to heaven on the top of which can be seen afar off,
 higher than we had fancied possible, the figure of man; lifted by three
@@ -6647,7 +6611,7 @@ that commonly belongs to these simplifiers of the Gospel; those who
 insist on what they call a simple morality and others call a sentimental
 morality. It is not at all covered by those who are content to tell
 everybody to remain at peace. On the contrary, there is a very striking
-example of it in the apparent inconsistency between Christ’s sayings
+example of it in the apparent inconsistency between Christ���s sayings
 about peace and about a sword. It is precisely this power which
 perceives that while a good peace is better than a good war, even a good
 war is better than a bad peace. These far-flung comparisons are nowhere
@@ -6700,7 +6664,7 @@ gods and men, come down from the sky; though we might imagine some
 insane Roman Emperor like Caligula claiming it for him, or more probably
 for himself. Nobody can imagine Shakespeare talking as if he were
 literally divine; though we might imagine some crazy American crank
-finding it as a cryptogram in Shakespeare’s works, or preferably in his
+finding it as a cryptogram in Shakespeare���s works, or preferably in his
 own works. It is possible to find here and there human beings who make
 this supremely superhuman claim. It is possible to find them in lunatic
 asylums; in padded cells; possibly in strait waistcoats. But what is
@@ -6773,8 +6737,8 @@ Herrick and as democratic as Dickens. But even in that story there is
 something else that has that note of things not fully explained; and in
 a way here very relevant. I mean the first hesitation, not on any ground
 touching the nature of the miracle, but on that of the propriety of
-working any miracles at all, at least at that stage; ‘My time is not yet
-come.’ What did that mean? At least it certainly meant a general plan or
+working any miracles at all, at least at that stage; ���My time is not yet
+come.��� What did that mean? At least it certainly meant a general plan or
 purpose in the mind, with which certain things did or did not fit in.
 And if we leave out that solitary strategic plan, we not only leave out
 the point of the story, but the story.
@@ -6801,7 +6765,7 @@ having no visible means of subsistence. For our law has in it a turn of
 humour or touch of fancy which Nero and Herod never happened to think
 of; that of actually punishing homeless people for not sleeping at home.
 
-But in another sense the word ‘wandering’ as applied to his life is a
+But in another sense the word ���wandering��� as applied to his life is a
 little misleading. As a matter of fact, a great many of the pagan sages
 and not a few of the pagan sophists might truly be described as
 wandering teachers. In some of them their rambling journeys were not
@@ -6838,9 +6802,9 @@ philosopher; certainly a far more really ideal philosopher than
 Apollonius of Tyana; but still a philosopher in the sense that it is not
 his business to do anything but rather to explain everything; in his
 case, we might almost say, mildly and softly to explode everything. For
-the messages are basically different. Christ said ‘Seek first the
-kingdom, and all these things shall be added unto you.’ Buddha said
-‘Seek first the kingdom, and then you will need none of these things.’
+the messages are basically different. Christ said ���Seek first the
+kingdom, and all these things shall be added unto you.��� Buddha said
+���Seek first the kingdom, and then you will need none of these things.���
 
 Now, compared to these wanderers the life of Jesus went as swift and
 straight as a thunderbolt. It was above all things dramatic; it did
@@ -6920,17 +6884,17 @@ the power of mill-stones; and those who can read them simply enough will
 feel as if rocks had been rolled upon them. Criticism is only words
 about words; and of what use are words about such words as these? What
 is the use of word-painting about the dark garden filled suddenly with
-torchlight and furious faces? ‘Are you come out with swords and staves
+torchlight and furious faces? ���Are you come out with swords and staves
 as against a robber? All day I sat in your temple teaching, and you took
-me not.’ Can anything be added to the massive and gathered restraint of
+me not.��� Can anything be added to the massive and gathered restraint of
 that irony; like a great wave lifted to the sky and refusing to fall?
-‘Daughters of Jerusalem, weep not for me, but weep for yourselves and
-for your children.’ As the High Priest asked what further need he had of
+���Daughters of Jerusalem, weep not for me, but weep for yourselves and
+for your children.��� As the High Priest asked what further need he had of
 witnesses, we might well ask what further need we have of words. Peter
-in a panic repudiated him: ‘and immediately the cock crew; and Jesus
-looked upon Peter, and Peter went out and wept bitterly.’ Has any one
+in a panic repudiated him: ���and immediately the cock crew; and Jesus
+looked upon Peter, and Peter went out and wept bitterly.��� Has any one
 any further remarks to offer? Just before the murder he prayed for all
-the murderous race of men, saying, ‘They know not what they do’; is
+the murderous race of men, saying, ���They know not what they do���; is
 there anything to say to that, except that we know as little what we
 say? Is there any need to repeat and spin out the story of how the
 tragedy trailed up the Via Dolorosa and how they threw him in haphazard
@@ -6938,7 +6902,7 @@ with two thieves in one of the ordinary batches of execution; and how in
 all that horror and howling wilderness of desertion one voice spoke in
 homage, a startling voice from the very last place where it was looked
 for, the gibbet of the criminal; and he said to that nameless ruffian,
-‘This night shalt thou be with me in Paradise’? Is there anything to put
+���This night shalt thou be with me in Paradise���? Is there anything to put
 after that but a full-stop? Or is any one prepared to answer adequately
 that farewell gesture to all flesh which created for his Mother a new
 Son?
@@ -6971,9 +6935,9 @@ and the hermaphrodite monstrosities of Greece. But in the lightning
 flash of this incident, we see great Rome, the imperial republic, going
 downward under her Lucretian doom. Scepticism has eaten away even the
 confident sanity of the conquerors of the world. He who is enthroned to
-say what is justice can only ask, ‘What is truth?’ So in that drama
+say what is justice can only ask, ���What is truth?��� So in that drama
 which decided the whole fate of antiquity, one of the central figures is
-fixed in what seems the reverse of his true rôle. Rome was almost
+fixed in what seems the reverse of his true r��le. Rome was almost
 another name for responsibility. Yet he stands for ever as a sort of
 rocking statue of the irresponsible. Man could do no more. Even the
 practical had become the impracticable. Standing between the pillars of
@@ -7026,7 +6990,7 @@ more peculiar to the ancient world. We have noted it already as the
 neglect of the individual, even of the individual voting the
 condemnation and still more of the individual condemned. It was the soul
 of the hive; a heathen thing. The cry of this spirit also was heard in
-that hour, ‘It is well that one man die for the people.’ Yet this spirit
+that hour, ���It is well that one man die for the people.��� Yet this spirit
 in antiquity of devotion to the city and to the state had also been in
 itself and in its time a noble spirit. It had its poets and its
 martyrs; men still to be honoured for ever. It was failing through its
@@ -7078,9 +7042,7 @@ evening but the dawn.
 
 
 
-CHAPTER IV
 
-THE WITNESS OF THE HERETICS
 
 
 Christ founded the Church with two great figures of speech; in the final
@@ -7256,15 +7218,15 @@ of a sudden ecstasy of enthusiasm and wild rush of the whirlwind of
 inspiration, in the course of which they proceed to establish universal
 Conscription, to increase the Navy Estimates, to insist on everybody
 going about armed to the teeth and on all the frontiers bristling with
-artillery; the proceedings concluding with the singing of ‘Boys of the
-Bulldog Breed’ and ‘Don’t let them scrap the British Navy.’ That is
+artillery; the proceedings concluding with the singing of ���Boys of the
+Bulldog Breed��� and ���Don���t let them scrap the British Navy.��� That is
 something like a fair parallel to the theory of these critics; that the
 transition from their idea of Jesus to their idea of Catholicism could
-have been made in the little upper room at Pentecost. Surely anybody’s
+have been made in the little upper room at Pentecost. Surely anybody���s
 common sense would tell him that enthusiasts, who only met through their
 common enthusiasm for a leader whom they loved, would not instantly rush
-away to establish everything that he hated. No, if the ‘ecclesiastical
-and dogmatic system’ is as old as Pentecost it is as old as Christmas.
+away to establish everything that he hated. No, if the ���ecclesiastical
+and dogmatic system��� is as old as Pentecost it is as old as Christmas.
 If we trace it back to such very early Christians we must trace it back
 to Christ.
 
@@ -7311,19 +7273,19 @@ the Empire in decay.
 The truth is that in one sense a man might very well have predicted that
 the imperial decadence would produce something like Christianity. That
 is, something a little like and gigantically different. A man might very
-well have said, for instance, ‘Pleasure has been pursued so
+well have said, for instance, ���Pleasure has been pursued so
 extravagantly that there will be a reaction into pessimism. Perhaps it
 will take the form of asceticism; men will mutilate themselves instead
-of merely hanging themselves.’ Or a man might very reasonably have said,
-‘If we weary of our Greek and Latin gods we shall be hankering after
+of merely hanging themselves.��� Or a man might very reasonably have said,
+���If we weary of our Greek and Latin gods we shall be hankering after
 some eastern mystery or other; there will be a fashion in Persians or
-Hindoos.’ Or a man of the world might well have been shrewd enough to
-say, ‘Powerful people are picking up these fads; some day the court will
-adopt one of them and it may become official.’ Or yet another and
-gloomier prophet might be pardoned for saying, ‘The world is going
+Hindoos.��� Or a man of the world might well have been shrewd enough to
+say, ���Powerful people are picking up these fads; some day the court will
+adopt one of them and it may become official.��� Or yet another and
+gloomier prophet might be pardoned for saying, ���The world is going
 down-hill; dark and barbarous superstitions will return, it does not
 matter much which. They will all be formless and fugitive like dreams of
-the night.’
+the night.���
 
 Now it is the intense interest of the case that all these prophecies
 were really fulfilled; but it was not the Church that fulfilled them. It
@@ -7387,14 +7349,14 @@ the same as the very thing that destroyed it. For this purpose we will
 take in order two or three of the most ordinary explanations of
 Christian origins among the modern critics of Christianity. Nothing is
 more common, for instance, than to find such a modern critic writing
-something like this: ‘Christianity was above all a movement of ascetics,
+something like this: ���Christianity was above all a movement of ascetics,
 a rush into the desert, a refuge in the cloister, a renunciation of all
 life and happiness; and this was a part of a gloomy and inhuman reaction
 against nature itself, a hatred of the body, a horror of the material
 universe, a sort of universal suicide of the senses and even of the
 self. It came from an eastern fanaticism like that of the fakirs and was
 ultimately founded on an eastern pessimism, which seems to feel
-existence itself as an evil.’
+existence itself as an evil.���
 
 Now the most extraordinary thing about this is that it is all quite
 true; it is true in every detail except that it happens to be attributed
@@ -7418,8 +7380,8 @@ beyond a general buzz; indeed in a sense there was not much difference,
 so far as stinging and being stung were concerned. The difference was
 that only one golden dot in all that whirring gold-dust had the power of
 going forth to make hives for all humanity; to give the world honey and
-wax or (as was so finely said in a context too easily forgotten) ‘the
-two noblest things, which are sweetness and light.’ The wasps all died
+wax or (as was so finely said in a context too easily forgotten) ���the
+two noblest things, which are sweetness and light.��� The wasps all died
 that winter; and half the difficulty is that hardly any one knows
 anything about them and most people do not know that they ever existed;
 so that the whole story of that first phase of our religion is lost. Or,
@@ -7520,11 +7482,11 @@ things he had already found in the heathen world outside the Church, and
 had to renounce when he entered the Church. The very fact that St.
 Augustine remains a somewhat sterner or sadder figure than St. Francis
 or St. Teresa only accentuates the dilemma. Face to face with the
-gravest or even grimmest of Catholics, we can still ask, ‘Why did
-Catholicism make war on Manichees, if Catholicism was Manichean?’
+gravest or even grimmest of Catholics, we can still ask, ���Why did
+Catholicism make war on Manichees, if Catholicism was Manichean?���
 
 Take another rationalistic explanation of the rise of Christendom. It is
-common enough to find another critic saying, ‘Christianity did not
+common enough to find another critic saying, ���Christianity did not
 really rise at all; that is, it did not merely rise from below; it was
 imposed from above. It is an example of the power of the executive,
 especially in despotic states. The Empire was really an Empire; that is,
@@ -7536,7 +7498,7 @@ when he adopted it, it became the official religion of the Roman Empire;
 and when it became the official religion of the Roman Empire, it became
 as strong, as universal, and as invincible as the Roman Empire. It has
 only remained in the world as a relic of that Empire; or, as many have
-put it, it is but the ghost of Caesar still hovering over Rome.’ This
+put it, it is but the ghost of Caesar still hovering over Rome.��� This
 also is a very ordinary line taken in the criticism of orthodoxy, to say
 that it was only officialism that ever made it orthodoxy. And here again
 we can call on the heretics to refute it.
@@ -7583,7 +7545,7 @@ barren dogma and senseless sectarian strife, it is this Athanasian
 question of the Co-Eternity of the Divine Son. On the other hand, if
 there is one thing that the same liberals always offer us as a piece of
 pure and simple Christianity, untroubled by doctrinal disputes, it is
-the single sentence, ‘God is Love.’ Yet the two statements are almost
+the single sentence, ���God is Love.��� Yet the two statements are almost
 identical; at least one is very nearly nonsense without the other. The
 barren dogma is only the logical way of stating the beautiful sentiment.
 For if there be a being without beginning, existing before all things,
@@ -7645,36 +7607,36 @@ cannot call on these great witnesses to deny. The modern critic will say
 lightly enough that Christianity was but a reaction into asceticism and
 anti-natural spirituality, a dance of fakirs furious against life and
 love. But Manes the great mystic will answer them from his secret throne
-and cry, ‘These Christians have no right to be called spiritual; these
+and cry, ���These Christians have no right to be called spiritual; these
 Christians have no title to be called ascetics; they who compromised
 with the curse of life and all the filth of the family. Through them the
 earth is still foul with fruit and harvest and polluted with population.
 Theirs was no movement against nature, or my children would have carried
 it to triumph; but these fools renewed the world when I would have ended
-it with a gesture.’ And another critic will write that the Church was
+it with a gesture.��� And another critic will write that the Church was
 but the shadow of the Empire, the fad of a chance Emperor, and that it
 remains in Europe only as the ghost of the power of Rome. And Arius the
-deacon will answer out of the darkness of oblivion: ‘No, indeed, or the
+deacon will answer out of the darkness of oblivion: ���No, indeed, or the
 world would have followed my more reasonable religion. For mine went
 down before demagogues and men defying Caesar; and around my champion
 was the purple cloak and mine was the glory of the eagles. It was not
-for lack of these things that I failed.’ And yet a third modern will
+for lack of these things that I failed.��� And yet a third modern will
 maintain that the creed spread only as a sort of panic of hell-fire; men
 everywhere attempting impossible things in fleeing from incredible
 vengeance; a nightmare of imaginary remorse; and such an explanation
 will satisfy many who see something dreadful in the doctrine of
 orthodoxy. And then there will go up against it the terrible voice of
-Tertullian, saying, ‘And why then was I cast out; and why did soft
+Tertullian, saying, ���And why then was I cast out; and why did soft
 hearts and heads decide against me when I proclaimed the perdition of
 all sinners; and what was this power that thwarted me when I threatened
 all backsliders with hell? For none ever went up that hard road so far
-as I; and mine was the _Credo Quia Impossibile_.’ Then there is the
+as I; and mine was the _Credo Quia Impossibile_.��� Then there is the
 fourth suggestion that there was something of the Semitic secret society
 in the whole matter; that it was a new invasion of the nomad spirit
 shaking a kindlier and more comfortable paganism, its cities and its
 household gods; whereby the jealous monotheistic races could after all
 establish their jealous God. And Mahomet shall answer out of the
-whirlwind, the red whirlwind of the desert, ‘Who ever served the
+whirlwind, the red whirlwind of the desert, ���Who ever served the
 jealousy of God as I did or left him more lonely in the sky? Who ever
 paid more honour to Moses and Abraham or won more victories over idols
 and the images of paganism? And what was this thing that thrust me back
@@ -7685,7 +7647,7 @@ out that my ruin was the will of God; and what hurled great Godfrey as
 from a catapult over the wall of Jerusalem; and what brought great
 Sobieski like a thunderbolt to the gates of Vienna? I think there was
 more than you fancy in the religion that has so matched itself with
-mine.’
+mine.���
 
 Those who would suggest that the faith was a fanaticism are doomed to an
 eternal perplexity. In their account it is bound to appear as fanatical
@@ -7712,9 +7674,7 @@ and armed for judgment and for war.
 
 
 
-CHAPTER V
 
-THE ESCAPE FROM PAGANISM
 
 
 The modern missionary, with his palm-leaf hat and his umbrella, has
@@ -7813,9 +7773,9 @@ foreign and western and warlike, piercing it like a spear.
 Even where we might trace in dotted lines the domains of Asiatic
 religions, we should probably be reading into them something dogmatic
 and ethical belonging to our own religion. It is as if a European
-ignorant of the American atmosphere were to suppose that each ‘state’
+ignorant of the American atmosphere were to suppose that each ���state���
 was a separate sovereign state as patriotic as France or Poland; or that
-when a Yankee referred fondly to his ‘home town’ he meant he had no
+when a Yankee referred fondly to his ���home town��� he meant he had no
 other nation, like a citizen of ancient Athens or Rome. As he would be
 reading a particular sort of loyalty into America, so we are reading a
 particular sort of loyalty into Asia. There are loyalties of other
@@ -7825,10 +7785,10 @@ In the intellectual world it means something far more vague and varied
 by doubts and speculations. In the moral world it means something far
 more loose and drifting. A professor of Persian at one of our great
 universities, so passionate a partisan of the East as practically to
-profess a contempt for the West, said to a friend of mine: ‘You will
+profess a contempt for the West, said to a friend of mine: ���You will
 never understand oriental religions, because you always conceive
 religion as connected with ethics. This kind has really nothing to do
-with ethics.’ We have most of us known some Masters of the Higher
+with ethics.��� We have most of us known some Masters of the Higher
 Wisdom, some Pilgrims upon the Path to Power, some eastern esoteric
 saints and seers, who had really nothing to do with ethics. Something
 different, something detached and irresponsible, tinges the moral
@@ -8175,8 +8135,8 @@ of these worlds is one in which he can live. Something tells him that
 the ultimate idea of a world is not bad or even neutral; staring at the
 sky or the grass or the truths of mathematics or even a new-laid egg, he
 has a vague feeling like the shadow of that saying of the great
-Christian philosopher, St. Thomas Aquinas, ‘Every existence, as such, is
-good.’ On the other hand, something else tells him that it is unmanly
+Christian philosopher, St. Thomas Aquinas, ���Every existence, as such, is
+good.��� On the other hand, something else tells him that it is unmanly
 and debased and even diseased to minimise evil to a dot or even a blot.
 He realises that optimism is morbid. It is if possible even more morbid
 than pessimism. These vague but healthy feelings, if he followed them
@@ -8204,7 +8164,7 @@ age once asked me whether I thought mankind grew better or grew worse or
 remained the same. He was confident that the alternative covered all
 possibilities. He did not see that it only covered patterns and not
 pictures; processes and not stories. I asked him whether he thought that
-Mr. Smith of Golder’s Green got better or worse or remained exactly the
+Mr. Smith of Golder���s Green got better or worse or remained exactly the
 same between the age of thirty and forty. It then seemed to dawn on him
 that it would rather depend on Mr. Smith; and how he chose to go on. It
 had never occurred to him that it might depend on how mankind chose to
@@ -8335,9 +8295,7 @@ liberty blow over the land of the living.
 
 
 
-CHAPTER VI
 
-THE FIVE DEATHS OF THE FAITH
 
 
 It is not the purpose of this book to trace the subsequent history of
@@ -8395,7 +8353,7 @@ old world, and even on a Church that showed signs of growing old. Some
 of them were martyred on the coast of Cornwall; and the chief authority
 on Cornish antiquities told me that he did not believe for a moment that
 they were martyred by heathens but (as he expressed it with some humour)
-‘by rather slack Christians.’
+���by rather slack Christians.���
 
 Now if we were to dip below the surface of history, as it is not in the
 scope of this argument to do, I suspect that we should find several
@@ -8584,7 +8542,7 @@ arrogance of a fairy ship; but if the fairy ship sails upstream it is
 really rowed by the fairies. And among the things that merely went with
 the tide of apparent progress and enlargement, there was many a
 demagogue or sophist whose wild gestures were in truth as lifeless as
-the movement of a dead dog’s limbs wavering in the eddying water; and
+the movement of a dead dog���s limbs wavering in the eddying water; and
 many a philosophy uncommonly like a paper boat, of the sort that it is
 not difficult to knock into a cocked hat. But even the truly living and
 even life-giving things that went with that stream did not thereby prove
@@ -8657,7 +8615,7 @@ candle-light conquer the day. Again and again, before our time, men have
 grown content with a diluted doctrine. And again and again there has
 followed on that dilution, coming as out of the darkness in a crimson
 cataract, the strength of the red original wine. And we only say once
-more to-day as has been said many times by our fathers: ‘Long years and
+more to-day as has been said many times by our fathers: ���Long years and
 centuries ago our fathers or the founders of our people drank, as they
 dreamed, of the blood of God. Long years and centuries have passed since
 the strength of that giant vintage has been anything but a legend of the
@@ -8673,7 +8631,7 @@ more and more used to seeing those vats and vineyards overwhelmed in the
 water-floods and the last savour and suggestion of that special element
 fading like a stain of purple upon a sea of grey. We have grown used to
 dilution, to dissolution, to a watering down that went on for ever. But
-Thou hast kept the good wine until now.’
+Thou hast kept the good wine until now.���
 
 This is the final fact, and it is the most extraordinary of all. The
 faith has not only often died but it has often died of old age. It has
@@ -8701,7 +8659,7 @@ these things did indeed run their course to its normal end; and there
 seemed no course for the religion but to end with them. It ended and it
 began again.
 
-‘Heaven and earth shall pass away, but my words shall not pass away.’
+���Heaven and earth shall pass away, but my words shall not pass away.���
 The civilisation of antiquity was the whole world: and men no more
 dreamed of its ending than of the ending of daylight. They could not
 imagine another order unless it were in another world. The civilisation
@@ -8731,8 +8689,8 @@ story, it would seem that sooner or later even its enemies will learn
 from their incessant and interminable disappointments not to look for
 anything so simple as its death. They may continue to war with it, but
 it will be as they war with nature; as they war with the landscape, as
-they war with the skies. ‘Heaven and earth shall pass away, but my words
-shall not pass away.’ They will watch for it to stumble; they will watch
+they war with the skies. ���Heaven and earth shall pass away, but my words
+shall not pass away.��� They will watch for it to stumble; they will watch
 for it to err; they will no longer watch for it to end. Insensibly, even
 unconsciously, they will in their own silent anticipations fulfil the
 relative terms of that astounding prophecy; they will forget to watch
@@ -8743,9 +8701,7 @@ or the freezing of the star.
 
 
 
-CONCLUSION
 
-THE SUMMARY OF THIS BOOK
 
 
 I have taken the liberty once or twice of borrowing the excellent phrase
@@ -8858,10 +8814,10 @@ But the majority, the mob or mass of men, naturally tended to treat it
 rather in the spirit of gossip. The gossip, like all gossip, contained a
 great deal of truth and falsehood. The world began to tell itself tales
 about the unknown being or his sons or servants or messengers. Some of
-the tales may truly be called old wives’ tales; as professing only to be
+the tales may truly be called old wives��� tales; as professing only to be
 very remote memories of the morning of the world; myths about the baby
 moon or the half-baked mountains. Some of them might more truly be
-called travellers’ tales; as being curious but contemporary tales
+called travellers��� tales; as being curious but contemporary tales
 brought from certain borderlands of experience; such as miraculous
 cures or those that bring whispers of what has happened to the dead.
 Many of them are probably true tales; enough of them are probably true
@@ -9078,9 +9034,7 @@ intolerant enlightenment; the lightning made eternal as the light.
 
 
 
-APPENDIX I
 
-ON PREHISTORIC MAN
 
 
 In a sense it would be better if history were more superficial. What is
@@ -9113,7 +9067,7 @@ that, whether the reindeer picture could be religious or not, the people
 that lived before it were religious already. Men were already burying
 their dead with the care that is the significant sign of mystery and
 hope. This obviously brings us back to the same argument; an argument
-that is not approached by any measurement of the earlier man’s skull. It
+that is not approached by any measurement of the earlier man���s skull. It
 is little use to compare the head of the man with the head of the
 monkey, if it certainly has never come into the head of the monkey to
 bury another monkey with nuts in his grave to help him towards a
@@ -9129,9 +9083,7 @@ head.
 
 
 
-APPENDIX II
 
-ON AUTHORITY AND ACCURACY
 
 
 In this book, which is merely meant as a popular criticism of popular
@@ -9155,8 +9107,8 @@ gives a sort of foreign version. In the same way two statements in the
 chapter on Mythology follow each other in such a way that it may seem to
 be suggested that the second story about Monotheism refers to the
 Southern Seas. I may explain that Atahocan belongs not to Australasian
-but to American savages. So in the chapter called ‘The Antiquity of
-Civilisation,’ which I feel to be the most unsatisfactory, I have given
+but to American savages. So in the chapter called ���The Antiquity of
+Civilisation,��� which I feel to be the most unsatisfactory, I have given
 my own impression of the meaning of the development of Egyptian monarchy
 too much, perhaps, as if it were identical with the facts on which it
 was founded, as given in works like those of Professor J. L. Myres. But
@@ -9174,7 +9126,7 @@ see tracks in what is to me the trackless sand.
 
     
 
-Updated editions will replace the previous one—the old editions will
+Updated editions will replace the previous one���the old editions will
 be renamed.
 
 Creating the works from print editions not protected by U.S. copyright
@@ -9183,7 +9135,7 @@ so the Foundation (and you!) can copy and distribute it in the United
 States without permission and without paying copyright
 royalties. Special rules, set forth in the General Terms of Use part
 of this license, apply to copying and distributing Project
-Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+Gutenberg��� electronic works to protect the PROJECT GUTENBERG���
 concept and trademark. Project Gutenberg is a registered trademark,
 and may not be used if you charge for an eBook, except by following
 the terms of the trademark license, including paying royalties for use
@@ -9191,7 +9143,7 @@ of the Project Gutenberg trademark. If you do not charge anything for
 copies of this eBook, complying with the trademark license is very
 easy. You may use this eBook for nearly any purpose such as creation
 of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away—you may
+Gutenberg eBooks may be modified and printed and given away���you may
 do practically ANYTHING in the United States with eBooks not protected
 by U.S. copyright law. Redistribution is subject to the trademark
 license, especially commercial redistribution.
@@ -9199,56 +9151,55 @@ license, especially commercial redistribution.
 
 START: FULL LICENSE
 
-THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
-To protect the Project Gutenberg™ mission of promoting the free
+To protect the Project Gutenberg��� mission of promoting the free
 distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
-Project Gutenberg™ License available with this file or online at
+(or any other work associated in any way with the phrase ���Project
+Gutenberg���), you agree to comply with all the terms of the Full
+Project Gutenberg��� License available with this file or online at
 www.gutenberg.org/license.
 
-Section 1. General Terms of Use and Redistributing Project Gutenberg™
+Section 1. General Terms of Use and Redistributing Project Gutenberg���
 electronic works
 
-1.A. By reading or using any part of this Project Gutenberg™
+1.A. By reading or using any part of this Project Gutenberg���
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement. If you do not agree to abide by all
 the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg™ electronic works in your
+destroy all copies of Project Gutenberg��� electronic works in your
 possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg™ electronic work and you do not agree to be bound
+Project Gutenberg��� electronic work and you do not agree to be bound
 by the terms of this agreement, you may obtain a refund from the person
 or entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B. “Project Gutenberg” is a registered trademark. It may only be
+1.B. ���Project Gutenberg��� is a registered trademark. It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg™ electronic works
+things that you can do with most Project Gutenberg��� electronic works
 even without complying with the full terms of this agreement. See
 paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg™ electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg™
+Gutenberg��� electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg���
 electronic works. See paragraph 1.E below.
 
-1.C. The Project Gutenberg Literary Archive Foundation (“the
-Foundation” or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg™ electronic works. Nearly all the individual
+1.C. The Project Gutenberg Literary Archive Foundation (���the
+Foundation��� or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg��� electronic works. Nearly all the individual
 works in the collection are in the public domain in the United
 States. If an individual work is unprotected by copyright law in the
 United States and you are located in the United States, we do not
 claim a right to prevent you from copying, distributing, performing,
 displaying or creating derivative works based on the work as long as
 all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg™ mission of promoting
-free access to electronic works by freely sharing Project Gutenberg™
+that you will support the Project Gutenberg��� mission of promoting
+free access to electronic works by freely sharing Project Gutenberg���
 works in compliance with the terms of this agreement for keeping the
-Project Gutenberg™ name associated with the work. You can easily
+Project Gutenberg��� name associated with the work. You can easily
 comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg™ License when
+same format with its attached full Project Gutenberg��� License when
 you share it without charge with others.
 
 1.D. The copyright laws of the place where you are located also govern
@@ -9257,17 +9208,17 @@ in a constant state of change. If you are outside the United States,
 check the laws of your country in addition to the terms of this
 agreement before downloading, copying, displaying, performing,
 distributing or creating derivative works based on this work or any
-other Project Gutenberg™ work. The Foundation makes no
+other Project Gutenberg��� work. The Foundation makes no
 representations concerning the copyright status of any work in any
 country other than the United States.
 
 1.E. Unless you have removed all references to Project Gutenberg:
 
 1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg™ License must appear
-prominently whenever any copy of a Project Gutenberg™ work (any work
-on which the phrase “Project Gutenberg” appears, or with which the
-phrase “Project Gutenberg” is associated) is accessed, displayed,
+immediate access to, the full Project Gutenberg��� License must appear
+prominently whenever any copy of a Project Gutenberg��� work (any work
+on which the phrase ���Project Gutenberg��� appears, or with which the
+phrase ���Project Gutenberg��� is associated) is accessed, displayed,
 performed, viewed, copied or distributed:
 
     This eBook is for the use of anyone anywhere in the United States and most
@@ -9278,90 +9229,90 @@ performed, viewed, copied or distributed:
     are not located in the United States, you will have to check the laws
     of the country where you are located before using this eBook.
   
-1.E.2. If an individual Project Gutenberg™ electronic work is
+1.E.2. If an individual Project Gutenberg��� electronic work is
 derived from texts not protected by U.S. copyright law (does not
 contain a notice indicating that it is posted with permission of the
 copyright holder), the work can be copied and distributed to anyone in
 the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase “Project
-Gutenberg” associated with or appearing on the work, you must comply
+redistributing or providing access to a work with the phrase ���Project
+Gutenberg��� associated with or appearing on the work, you must comply
 either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg™
+obtain permission for the use of the work and the Project Gutenberg���
 trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3. If an individual Project Gutenberg™ electronic work is posted
+1.E.3. If an individual Project Gutenberg��� electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any
 additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg™ License for all works
+will be linked to the Project Gutenberg��� License for all works
 posted with the permission of the copyright holder found at the
 beginning of this work.
 
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg���
 License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg™.
+work or any other work associated with Project Gutenberg���.
 
 1.E.5. Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
-Gutenberg™ License.
+Gutenberg��� License.
 
 1.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg™ work in a format
-other than “Plain Vanilla ASCII” or other format used in the official
-version posted on the official Project Gutenberg™ website
+to or distribute copies of a Project Gutenberg��� work in a format
+other than ���Plain Vanilla ASCII��� or other format used in the official
+version posted on the official Project Gutenberg��� website
 (www.gutenberg.org), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the
-full Project Gutenberg™ License as specified in paragraph 1.E.1.
+of obtaining a copy upon request, of the work in its original ���Plain
+Vanilla ASCII��� or other form. Any alternate format must include the
+full Project Gutenberg��� License as specified in paragraph 1.E.1.
 
 1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg™ works
+performing, copying or distributing any Project Gutenberg��� works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
 1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg™ electronic works
+access to or distributing Project Gutenberg��� electronic works
 provided that:
 
-    • You pay a royalty fee of 20% of the gross profits you derive from
-        the use of Project Gutenberg™ works calculated using the method
+    ��� You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg��� works calculated using the method
         you already use to calculate your applicable taxes. The fee is owed
-        to the owner of the Project Gutenberg™ trademark, but he has
+        to the owner of the Project Gutenberg��� trademark, but he has
         agreed to donate royalties under this paragraph to the Project
         Gutenberg Literary Archive Foundation. Royalty payments must be paid
         within 60 days following each date on which you prepare (or are
         legally required to prepare) your periodic tax returns. Royalty
         payments should be clearly marked as such and sent to the Project
         Gutenberg Literary Archive Foundation at the address specified in
-        Section 4, “Information about donations to the Project Gutenberg
-        Literary Archive Foundation.”
+        Section 4, ���Information about donations to the Project Gutenberg
+        Literary Archive Foundation.���
     
-    • You provide a full refund of any money paid by a user who notifies
+    ��� You provide a full refund of any money paid by a user who notifies
         you in writing (or by e-mail) within 30 days of receipt that s/he
-        does not agree to the terms of the full Project Gutenberg™
+        does not agree to the terms of the full Project Gutenberg���
         License. You must require such a user to return or destroy all
         copies of the works possessed in a physical medium and discontinue
-        all use of and all access to other copies of Project Gutenberg™
+        all use of and all access to other copies of Project Gutenberg���
         works.
     
-    • You provide, in accordance with paragraph 1.F.3, a full refund of
+    ��� You provide, in accordance with paragraph 1.F.3, a full refund of
         any money paid for a work or a replacement copy, if a defect in the
         electronic work is discovered and reported to you within 90 days of
         receipt of the work.
     
-    • You comply with all other terms of this agreement for free
-        distribution of Project Gutenberg™ works.
+    ��� You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg��� works.
     
 
 1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg™ electronic work or group of works on different terms than
+Gutenberg��� electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
 from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg™ trademark. Contact the Foundation as set
+the Project Gutenberg��� trademark. Contact the Foundation as set
 forth in Section 3 below.
 
 1.F.
@@ -9369,19 +9320,19 @@ forth in Section 3 below.
 1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
 works not protected by U.S. copyright law in creating the Project
-Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+Gutenberg��� collection. Despite these efforts, Project Gutenberg���
 electronic works, and the medium on which they may be stored, may
-contain “Defects,” such as, but not limited to, incomplete, inaccurate
+contain ���Defects,��� such as, but not limited to, incomplete, inaccurate
 or corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged disk or
 other medium, a computer virus, or computer codes that damage or
 cannot be read by your equipment.
 
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the ���Right
+of Replacement or Refund��� described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all
+Gutenberg��� trademark, and any other party distributing a Project
+Gutenberg��� electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal
 fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
@@ -9405,7 +9356,7 @@ the second copy is also defective, you may demand a refund in writing
 without further opportunities to fix the problem.
 
 1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+in paragraph 1.F.3, this work is provided to you ���AS-IS���, WITH NO
 OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
 LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
@@ -9420,30 +9371,30 @@ remaining provisions.
 
 1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in
+providing copies of Project Gutenberg��� electronic works in
 accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg™
+production, promotion and distribution of Project Gutenberg���
 electronic works, harmless from all liability, costs and expenses,
 including legal fees, that arise directly or indirectly from any of
 the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg™ work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg™ work, and (c) any
+or any Project Gutenberg��� work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg��� work, and (c) any
 Defect you cause.
 
-Section 2. Information about the Mission of Project Gutenberg™
+Section 2. Information about the Mission of Project Gutenberg���
 
-Project Gutenberg™ is synonymous with the free distribution of
+Project Gutenberg��� is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of
 computers including obsolete, old, middle-aged and new computers. It
 exists because of the efforts of hundreds of volunteers and donations
 from people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™’s
-goals and ensuring that the Project Gutenberg™ collection will
+assistance they need are critical to reaching Project Gutenberg������s
+goals and ensuring that the Project Gutenberg��� collection will
 remain freely available for generations to come. In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg™ and future
+and permanent future for Project Gutenberg��� and future
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
@@ -9453,20 +9404,20 @@ Section 3. Information about the Project Gutenberg Literary Archive Foundation
 The Project Gutenberg Literary Archive Foundation is a non-profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation’s EIN or federal tax identification
+Revenue Service. The Foundation���s EIN or federal tax identification
 number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state’s laws.
+U.S. federal laws and your state���s laws.
 
-The Foundation’s business office is located at 809 North 1500 West,
+The Foundation���s business office is located at 809 North 1500 West,
 Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation’s website
+to date contact information can be found at the Foundation���s website
 and official page at www.gutenberg.org/contact
 
 Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
-Project Gutenberg™ depends upon and cannot survive without widespread
+Project Gutenberg��� depends upon and cannot survive without widespread
 public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
 freely distributed in machine-readable form accessible by the widest
@@ -9497,15 +9448,15 @@ methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
 donate, please visit: www.gutenberg.org/donate.
 
-Section 5. General Information About Project Gutenberg™ electronic works
+Section 5. General Information About Project Gutenberg��� electronic works
 
 Professor Michael S. Hart was the originator of the Project
-Gutenberg™ concept of a library of electronic works that could be
+Gutenberg��� concept of a library of electronic works that could be
 freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg™ eBooks with only a loose network of
+distributed Project Gutenberg��� eBooks with only a loose network of
 volunteer support.
 
-Project Gutenberg™ eBooks are often created from several printed
+Project Gutenberg��� eBooks are often created from several printed
 editions, all of which are confirmed as not protected by copyright in
 the U.S. unless a copyright notice is included. Thus, we do not
 necessarily keep eBooks in compliance with any particular paper
@@ -9514,7 +9465,7 @@ edition.
 Most people start at our website which has the main PG search
 facility: www.gutenberg.org.
 
-This website includes information about Project Gutenberg™,
+This website includes information about Project Gutenberg���,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.

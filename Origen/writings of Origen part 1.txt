@@ -44,7 +44,6 @@ Credits: Wouter Franssen, David King, and the Online Distributed Proofreading Te
 
                         THE WRITINGS OF ORIGEN.
 
-                             TRANSLATED BY
 
                      REV. FREDERICK CROMBIE, M.A.,
    PROFESSOR OF BIBLICAL CRITICISM, ST. MARY’S COLLEGE, ST. ANDREWS.
@@ -21494,7 +21493,6 @@ license, especially commercial redistribution.
 
 START: FULL LICENSE
 
-THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 

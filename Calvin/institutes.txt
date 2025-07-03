@@ -47,13 +47,11 @@ Language: English
 
                     Presbyterian Board of Publication
 
-                                   1813
 
 
 
 
 
-CONTENTS
 
 
 Advertisement.
@@ -26759,7 +26757,6 @@ Christ.
 
 
 
-FOOTNOTES
 
 
     1 It is not uncommon, among persons of a certain class, to represent
@@ -30848,7 +30845,6 @@ license, especially commercial redistribution.
 
 START: FULL LICENSE
 
-THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
