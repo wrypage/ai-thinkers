@@ -12,7 +12,7 @@ DB_CONFIG = {
     "dbname": "selahdevotional",
     "user": "selah",
     "password": "4HisGlory!",
-    "host": "localhost",
+    "host": "142.93.114.5",  # your droplet's public IP
     "port": 5432,
 }
 
