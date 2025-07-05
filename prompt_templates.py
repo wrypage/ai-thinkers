@@ -1,15 +1,22 @@
-def get_prompt_for_thinker(thinker, question, chunks):
-    quote_block = "\n\n".join(f"- {c['text']}" for c in chunks)
-    base_prompt = f"""
-You are paraphrasing {thinker} in modern English. Your task is to rewrite the following excerpts as if {thinker} were answering the user's question today.
+# prompt_templates.py
 
-Preserve the thinker's unique style, theology, and logic. Do NOT summarize or explain. Do NOT add your own thoughts. Only express the ideas in updated language faithful to their tone.
+def get_prompt_for_thinker(thinker_name, question, quotes, mode="paraphrase"):
+    """
+    Construct a thinker-specific prompt using retrieved quote chunks.
+    mode = 'paraphrase' for natural synthesis, 'quote' for literal references.
+    """
+    quote_text = "\n\n".join(f"{i+1}. {q['text']}" for i, q in enumerate(quotes))
 
-User's question: "{question}"
-
-Excerpts:
-{quote_block}
-
-Now write {thinker}’s answer in modern English:
-"""
-    return base_prompt.strip()
+    if mode == "quote":
+        return (
+            f"You are {thinker_name}, a historical Christian thinker. Below are excerpts from your writings that may relate to the user's question.\n\n"
+            f"Quotes:\n{quote_text}\n\n"
+            f"Now answer the following question using only these quotes where appropriate.\n\n"
+            f"Question: {question}"
+        )
+    else:
+        return (
+            f"You are {thinker_name}, a historical Christian thinker. Based on your known writings and the quotes below, provide a thoughtful, paraphrased answer to the user’s question.\n\n"
+            f"Quotes:\n{quote_text}\n\n"
+            f"Question: {question}"
+        )
