@@ -1,12 +1,17 @@
-# thinker_app.py
 import os
-import gradio as gr
+from dotenv import load_dotenv
+load_dotenv()  # Must be first
+
 from openai import OpenAI
+import gradio as gr
 from config import OPENAI_API_KEY
 from thinker_profiles import THINKER_PROFILES
 from query_logic import build_messages
 
-client = OpenAI(api_key=OPENAI_API_KEY)
+client = OpenAI(
+    api_key=os.getenv("OPENAI_API_KEY"),
+    project=os.getenv("OPENAI_PROJECT_ID")
+)
 
 
 def ask_thinker(thinker_key, question, mode):

@@ -278,8 +278,7 @@ THINKER_PROFILES = {
         "culturally engaged"
     ],
     "modernize_language": True
-}
-,
+},
 
 
 "soren_kierkegaard": {

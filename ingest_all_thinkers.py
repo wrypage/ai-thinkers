@@ -1,25 +1,21 @@
 import os
 import re
-from typing import List
 from pathlib import Path
-import psycopg2
+from typing import List
+from dotenv import load_dotenv
+
+import psycopg
 from openai import OpenAI
+from config import OPENAI_API_KEY, OPENAI_PROJECT_ID, DB_PARAMS
 
-# ✅ Set up OpenAI client (modern SDK)
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# ✅ Load environment variables
+load_dotenv()
 
-# ✅ PostgreSQL DB connection settings
-DB_CONFIG = {
-    "dbname": "selahdevotional",
-    "user": "selah",
-    "password": "4HisGlory!",
-    "host": "142.93.114.5",
-    "port": 5432,
-}
-
-# ✅ Connect to the database
-conn = psycopg2.connect(**DB_CONFIG, sslmode='disable')
-cursor = conn.cursor()
+# ✅ Initialize OpenAI client
+client = OpenAI(
+    api_key=OPENAI_API_KEY,
+    project=OPENAI_PROJECT_ID
+)
 
 # 🧼 Clean up raw text
 def clean_text(text: str) -> str:
@@ -38,7 +34,7 @@ def chunk_text(text: str, max_words=500) -> List[str]:
     words = text.split()
     return [" ".join(words[i:i + max_words]) for i in range(0, len(words), max_words)]
 
-# 🤖 Get embedding using new OpenAI SDK
+# 🤖 Get embedding from OpenAI
 def get_embedding(text: str, model: str = "text-embedding-3-small") -> List[float]:
     try:
         response = client.embeddings.create(input=[text], model=model)
@@ -47,16 +43,15 @@ def get_embedding(text: str, model: str = "text-embedding-3-small") -> List[floa
         print(f"Error getting embedding: {e}")
         return None
 
-# 🗄️ Insert one chunk into DB
-def insert_chunk(book_title: str, chapter: str, chunk_index: int, chunk_text: str, embedding: List[float], author: str):
-    cursor.execute("""
+# 🗄️ Insert one chunk into the database
+def insert_chunk(cur, book_title: str, chapter: str, chunk_index: int, chunk_text: str, embedding: List[float], author: str):
+    cur.execute("""
         INSERT INTO texts (book_title, chapter, chunk_index, chunk_text, embedding, author)
         VALUES (%s, %s, %s, %s, %s, %s)
     """, (book_title, chapter, chunk_index, chunk_text, embedding, author))
-    conn.commit()
 
 # 📥 Ingest one text file
-def ingest_file(file_path: Path, author: str):
+def ingest_file(cur, file_path: Path, author: str):
     book_title = file_path.stem.replace("_", " ").title()
     print(f"\n📘 Ingesting: {book_title} by {author}")
 
@@ -74,27 +69,28 @@ def ingest_file(file_path: Path, author: str):
         for chunk in chunks:
             embedding = get_embedding(chunk)
             if embedding:
-                insert_chunk(book_title, chapter_title, chunk_index, chunk, embedding, author)
+                insert_chunk(cur, book_title, chapter_title, chunk_index, chunk, embedding, author)
                 print(f"✅ Inserted chunk {chunk_index} of {chapter_title}")
                 chunk_index += 1
             else:
                 print(f"⚠️ Skipped chunk {chunk_index} due to embedding error")
 
-# 🔁 Ingest all .txt files in all thinker folders
+# 🔁 Ingest all .txt files in thinker folders
 def ingest_all(base_dir: Path):
-    for thinker_dir in base_dir.iterdir():
-        if thinker_dir.is_dir():
-            author = thinker_dir.name
-            for file in thinker_dir.glob("*.txt"):
-                try:
-                    ingest_file(file, author)
-                except Exception as e:
-                    print(f"⚠️ Error with {file}: {e}")
+    with psycopg.connect(**DB_PARAMS) as conn:
+        with conn.cursor() as cur:
+            for thinker_dir in base_dir.iterdir():
+                if thinker_dir.is_dir():
+                    author = thinker_dir.name
+                    for file in thinker_dir.glob("*.txt"):
+                        try:
+                            ingest_file(cur, file, author)
+                            conn.commit()
+                        except Exception as e:
+                            print(f"⚠️ Error with {file}: {e}")
 
 # 🚀 Entry point
 if __name__ == "__main__":
     BASE_DIR = Path(__file__).parent.resolve()
     ingest_all(BASE_DIR)
-    cursor.close()
-    conn.close()
     print("\n🎉 All thinkers ingested.")
