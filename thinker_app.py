@@ -7,6 +7,7 @@ import gradio as gr
 from config import OPENAI_API_KEY
 from thinker_profiles import THINKER_PROFILES
 from query_logic import build_messages
+from logger import log_interaction_json  # ✅ added
 
 client = OpenAI(
     api_key=os.getenv("OPENAI_API_KEY"),
@@ -23,7 +24,12 @@ def ask_thinker(thinker_key, question, mode):
         model="gpt-4",
         messages=messages
     )
-    return response.choices[0].message.content
+    answer = response.choices[0].message.content
+
+    # ✅ Log the interaction
+    log_interaction_json(thinker_key, question, answer)
+
+    return answer
 
 
 def run_interface():

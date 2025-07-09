@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-OPENAI_PROJECT_ID = os.getenv("OPENAI_PROJECT_ID")  # ✅ Add this line
+OPENAI_PROJECT_ID = os.getenv("OPENAI_PROJECT_ID")
 
 DB_PARAMS = {
     "host": os.getenv("DB_HOST"),
